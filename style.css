@@ -1,0 +1,21 @@
+body{
+    background-color: #212121;
+    font-family: 'Roboto', sans-serif;
+    display:flex;
+}
+.header{
+    padding-top:100px;
+    color: #4dffff;
+    padding-left: 7%
+    
+}
+.header h1{
+    font-size: 100px;
+    font-weight:300
+}
+.image1{
+    display:flex;
+    flex:1;
+    margin-left: 15px;
+    margin-right:15px;
+}
