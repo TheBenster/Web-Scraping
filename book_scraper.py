@@ -57,3 +57,25 @@ with open('philosophy_books.csv', 'w', newline='') as csvfile:
         
         writer.writerow([title, author, rating, genre])
             
+# Absurdist
+absurdist_url = 'https://www.goodreads.com/list/show/24776.Absurdist_Fiction'
+absurd_result = requests.get(absurdist_url).text
+absurd_doc = BeautifulSoup(absurd_result, 'html.parser')
+
+book_elements = absurd_doc.find_all('tr', {'itemtype' : 'http://schema.org/Book'})
+with open('absurdist_books.csv', 'w', newline='') as csvfile:
+    writer = csv.writer(csvfile)
+    
+    writer.writerow(['Title', 'Author', 'Rating', 'Genre'])
+    
+    for book in book_elements:
+        title_uncleaned = book.find('a',{ 'class' :'bookTitle' })
+        author_uncleaned = book.find('a', { 'class' : 'authorName' })
+        rating_uncleaned = book.find('span',{ 'class' : 'minirating' })
+        
+        title = title_uncleaned.text.strip()
+        author = author_uncleaned.text.strip()
+        rating = rating_uncleaned.text.strip()
+        genre = 'Absurdist Fiction'
+        
+        writer.writerow([title, author, rating, genre])
