@@ -4,26 +4,23 @@ from random import choices
 
 book_choice = input('Pick a genre: ')
 
+# declares dataframe based on user input
 if book_choice == 'Horror':
     df = pd.read_csv('horror_books.csv')
 elif book_choice == 'Absurdist Fiction':
     df = pd.read_csv('absurdist_books.csv')
-    
-genre = choices(df.Genre)
 
+genre = choices(df.Genre)
+# Automates the if statement in book_chooser() so i don't have to repeat the if statement above
 genre_string = ''.join(genre)
 
-
-def book_chooser(df):
-    # book_choice = input('Pick a genre')
-    book_title = df.Title
-    
-    random_title = choices(book_title)
+# Takes df declared above, assigns random book and prints the book title and author associated
+def book_chooser(df): 
+    random_title = choices(df.Title)
     book_string = ''.join(random_title)
     
     find_author = df.loc[df['Title'] == book_string].Author
     author_string = ''.join(find_author)
-    
     
     if book_choice == genre_string:
         # df = pd.read_csv('horror_books.csv')
@@ -32,9 +29,6 @@ def book_chooser(df):
 book_chooser(df)
     
 
-
-
-print(genre_string)
 # ### ABSURDIST FICTION ###
 # absurd_df = pd.read_csv('absurdist_books.csv')
 # ### ABSURDIST FICTION ###
