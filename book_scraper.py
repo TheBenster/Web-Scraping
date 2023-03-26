@@ -79,3 +79,26 @@ with open('absurdist_books.csv', 'w', newline='') as csvfile:
         genre = 'Absurdist Fiction'
         
         writer.writerow([title, author, rating, genre])
+        
+# Science Fiction
+scifi_url = 'https://www.goodreads.com/list/show/19341.Best_Science_Fiction'
+scifi_result = requests.get(scifi_url).text
+scifi_doc = BeautifulSoup(scifi_result, 'html.parser')
+
+book_elements = scifi_doc.find_all('tr', {'itemtype' : 'http://schema.org/Book'})
+
+with(open('scifi_books.csv', 'w', newline='')) as csvfile:
+    writer = csv.writer(csvfile)
+    writer.writerow(['Title', 'Author', 'Rating', 'Genre'])
+    
+    for book in book_elements:
+        title_uncleaned = book.find('a', {'class' : 'bookTitle'})
+        author_uncleaned = book.find('a', {'class' : 'authorName'})
+        rating_uncleaned = book.find('span', {'class' : 'minirating'})
+        
+        title = title_uncleaned.text.split()
+        author = author_uncleaned.text.split()
+        rating = rating_uncleaned.text.split()
+        genre = 'Science Fiction'
+        
+        writer.writerow([title, author, rating, genre])
