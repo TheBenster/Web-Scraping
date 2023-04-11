@@ -29,4 +29,3 @@ def book_chooser(df):
         print(f'Your random book is {book_string} by {author_string}')
     
 book_chooser(df)
-    
