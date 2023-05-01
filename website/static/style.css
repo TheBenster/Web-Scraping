@@ -12,7 +12,7 @@ body{
     align-items: center;
     text-align: center;
     gap: 200px;
-    padding: 40%
+    padding: 50%;
 }
 
 form{
@@ -25,7 +25,7 @@ input#submit{
     color: white;
     font-size: 30px;
     border-radius: 15px;
-    width: 150px;
+    width: 250px;
 }
 input#submit:hover{
     cursor: pointer;
@@ -34,9 +34,18 @@ input#submit:hover{
 }
 .result{
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     text-align: center;
-    padding-top:50%;
-    padding-bottom: 50%;
+    padding-top:40%;
+}
+
+button.redirect{
+    margin-top: 40px;
+    width: 150px;
+    height: 70px;
+    background-color: #275ff7;
+    color:white;
+    align-self: center;
 }

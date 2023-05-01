@@ -5,22 +5,21 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="{{ url_for('static', filename='style.css' )}}">
-    <title>Document</title>
+    <title>Book Chooser</title>
 </head>
 <body>
-    <h1>Hello World</h1>
     <div class='choiceForm'>
     <form action="" method='post'>
         <label for="genre">Select a genre:</label>
         <select name="genre" id="genre">
             <option value="Horror">Horror</option>
-            <option value="Absurdist">Absurdist Fiction</option>
+            <option value="Absurdist Fiction">Absurdist Fiction</option>
             <option value="Philosophy">Philosophy</option>
-            <option value="scifi">Science Fiction</option>
-            <option value="psycho_thriller">Psychological Thriller</option>
+            <option value="Science Fiction">Science Fiction</option>
+            <option value="Psychological Thriller">Psychological Thriller</option>
         </select>
         <br></br>
-        <input type="submit" value='Submit' id='submit'>
+        <input type="submit" value='Give me a book!' id='submit'>
     </form>
 </div>
 </body>
