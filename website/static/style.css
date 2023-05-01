@@ -1,0 +1,42 @@
+body{
+    margin-left: 30%;
+    margin-right: 30%;
+    background-color: #212121;
+    color: white;
+    font-family: 'Roboto', 'Arial', sans-serif
+}
+
+.choiceForm {
+    display:flex; 
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    gap: 200px;
+    padding: 40%
+}
+
+form{
+    font-size: 20px;
+}
+
+input#submit{
+    border-style: none;
+    background-color: #275ff7;
+    color: white;
+    font-size: 30px;
+    border-radius: 15px;
+    width: 150px;
+}
+input#submit:hover{
+    cursor: pointer;
+    border-style:solid;
+    border-color: white;
+}
+.result{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-top:50%;
+    padding-bottom: 50%;
+}
