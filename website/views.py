@@ -13,7 +13,7 @@ def home():
         
         filename = GENRE_FILES.get(genre)
         
-        books = pd.read_csv(filename)
+        books = pd.read_csv(filename, encoding='unicode_escape')
         
         book = books.sample(n=1).iloc[0]
         

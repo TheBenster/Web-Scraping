@@ -48,4 +48,7 @@ button.redirect{
     background-color: #275ff7;
     color:white;
     align-self: center;
+    border-style: none;
+    border-radius: 15px;
+    font-size:15px;
 }
