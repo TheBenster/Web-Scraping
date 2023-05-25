@@ -105,13 +105,13 @@ import csv
         
 # Psychological Thriller
 
-psych_thril_url = 'https://www.goodreads.com/list/show/180581.52_Book_Club_2022_October_Mini_Challenge_A_Psychological_Thriller';
-psych_thril_result = requests.get(psych_thril_url).text
-psych_thril = BeautifulSoup(psych_thril_result, 'html.parser')
+comedy_url = 'https://www.goodreads.com/list/show/4208.Funniest_Books_Ever';
+comedy_result = requests.get(comedy_url).text
+comedy = BeautifulSoup(comedy_result, 'html.parser')
 
-book_elements = psych_thril.find_all('tr', {'itemtype' : 'http://schema.org/Book'})
+book_elements = comedy.find_all('tr', {'itemtype' : 'http://schema.org/Book'})
 
-with(open('psycho_thriller_books.csv', 'w', newline='')) as csvfile:
+with(open('comedy_books.csv', 'w', newline='')) as csvfile:
     writer = csv.writer(csvfile)
     writer.writerow(['Title', 'Author', 'Rating', 'Genre'])
     
@@ -123,6 +123,6 @@ with(open('psycho_thriller_books.csv', 'w', newline='')) as csvfile:
         title = title_uncleaned.text.strip()
         author = author_uncleaned.text.strip()
         rating = rating_uncleaned.text.strip()
-        genre = 'Psychological Thriller'
+        genre = 'comedy'
         
         writer.writerow([title, author, rating, genre]) 
