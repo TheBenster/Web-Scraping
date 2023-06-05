@@ -8,5 +8,7 @@ GENRE_FILES = {
     'Adventure' : 'adventure_books.csv',
     'Southern Gothic' : 'southern_gothic_books.csv',
     'Science' : 'science_books.csv',
-    'History' : 'history_books.csv'
+    'History' : 'history_books.csv',
+    'Comedy' : 'comedy_books.csv',
+    'Magical Realism' : 'magical_realism_books.csv'
 }

@@ -105,13 +105,13 @@ import csv
         
 # Psychological Thriller
 
-comedy_url = 'https://www.goodreads.com/list/show/4208.Funniest_Books_Ever';
-comedy_result = requests.get(comedy_url).text
-comedy = BeautifulSoup(comedy_result, 'html.parser')
+magical_realism = 'https://www.goodreads.com/list/show/143.Favorite_Magical_Realism_Novels';
+magic_result = requests.get(magical_realism).text
+mag_realism = BeautifulSoup(magic_result, 'html.parser')
 
-book_elements = comedy.find_all('tr', {'itemtype' : 'http://schema.org/Book'})
+book_elements = mag_realism.find_all('tr', {'itemtype' : 'http://schema.org/Book'})
 
-with(open('comedy_books.csv', 'w', newline='')) as csvfile:
+with(open('magical_realism_books.csv', 'w', newline='')) as csvfile:
     writer = csv.writer(csvfile)
     writer.writerow(['Title', 'Author', 'Rating', 'Genre'])
     
@@ -123,6 +123,6 @@ with(open('comedy_books.csv', 'w', newline='')) as csvfile:
         title = title_uncleaned.text.strip()
         author = author_uncleaned.text.strip()
         rating = rating_uncleaned.text.strip()
-        genre = 'comedy'
+        genre = 'Magical Realism'
         
         writer.writerow([title, author, rating, genre]) 
