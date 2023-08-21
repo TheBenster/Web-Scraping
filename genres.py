@@ -10,5 +10,6 @@ GENRE_FILES = {
     'Science' : 'science_books.csv',
     'History' : 'history_books.csv',
     'Comedy' : 'comedy_books.csv',
-    'Magical Realism' : 'magical_realism_books.csv'
+    'Magical Realism' : 'magical_realism_books.csv',
+    'Poetry' : 'poetry_books.csv',
 }
