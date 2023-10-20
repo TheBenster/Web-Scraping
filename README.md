@@ -39,6 +39,3 @@ You can modify the scraping URL and genre in the scraper.py file to scrape books
 python
 `poetry_url = 'https://www.goodreads.com/list/show/107268.Best_Popular_Poetry_Books_on_Goodreads'`
 `genre = 'Magical Realism'`
-
-# Credits
-This project was created by [Your Name]. You can contact me at [your email] for any questions or feedback.
