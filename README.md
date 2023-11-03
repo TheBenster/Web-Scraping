@@ -1,15 +1,41 @@
-<h1>Project Scope</h1>
+# Goodreads Book Scraper and Flask Website
+This project is a web scraping app that scrapes book information from Goodreads, converts it to a CSV file, and then displays the data on a Flask website with a dropdown menu for selecting genres.
 
-I am creating a database of popular books for days when I don't want to research too much into the next book I want to read. This is also being created to develop practical experience using the webscraping library <b>BeautifulSoup</b>.
+# Features
+Scrapes book data from Goodreads.
+Converts book data to a CSV file.
+Provides a user-friendly web interface.
+Allows users to select a genre from the dropdown menu.
+Displays a random book from the selected genre.
 
-Alongside <b>BeautifulSoup</b> I will also be including <b>Pandas</b> to create a more established/concise database for easier functionality when I eventually get input from the user.
+# Requirements
+Python 3.x
+Beautiful Soup (for web scraping)
+Flask (for creating the web interface)
 
-What I learned from the barebones of this project is that web scraping can be a very useful tool for gathering data from the web. BeautifulSoup is a powerful library that makes it easy to parse HTML and extract the data you need. Pandas is a great tool for creating and managing databases. Together, these tools can be used to create a powerful database of popular books.
+# How to Use
+Clone this repository to your local machine.
+`git clone https://github.com/TheBenster/Web-Scraping.git`
 
-I also learned that it is important to have a clear plan in mind when starting a project like this. I had to think about what data I wanted to collect (what lists to parse from, the DOM structure of the page), how I would collect it, and how I would store it. Once I had a plan, I was able to start working on the project and make progress quickly.
+Install the required Python packages.
+`pip install beautifulsoup4 flask`
+Run the web scraping script to fetch book data from Goodreads and save it as a CSV file.
+`python scraper.py`
 
-Overall, I am very happy with the results of this project. I learned a lot about web scraping, database management, and planning. I also have a database of popular books that I can use when I need a good book to read.
+Start the Flask web application.
+`python app.py`
+Open your web browser and access the website at http://localhost:5000.
 
-Eventually, I plan to make this database into a website using the Flask framework hopefully allowing me to share my database with others and make it easier for people to find books that they might be interested in. I also plan to add additional features to the website, such as the ability to rate books and eventually save them in a library.
+Select a genre from the dropdown menu and click "Give Me a Book" to get a random book recommendation.
 
-I am excited about the potential of this project and I am looking forward to continuing to work on it.
+# File Structure
+scraper.py: The script for scraping Goodreads book data and saving it as a CSV file.
+app.py: The Flask web application for displaying the data and allowing users to select genres.
+poetry_books.csv: The CSV file where the scraped book data is saved.
+templates/: Contains HTML templates for the website.
+Configuration
+You can modify the scraping URL and genre in the scraper.py file to scrape books from different Goodreads lists and assign different genres.
+
+python
+`poetry_url = 'https://www.goodreads.com/list/show/107268.Best_Popular_Poetry_Books_on_Goodreads'`
+`genre = 'Magical Realism'`
