@@ -17,7 +17,7 @@ def home():
         
         book = books.sample(n=1).iloc[0]
         
-        return render_template('result.html',  title=book['Title'], author=book['Author'])
+        return render_template('result.html',  title=book['Title'], author=book['Author'], cover=book['Book Cover URL'])
     
     
     return render_template('home.html')

@@ -113,16 +113,18 @@ book_elements = poetry.find_all('tr', {'itemtype' : 'http://schema.org/Book'})
 
 with(open('poetry_books.csv', 'w', newline='')) as csvfile:
     writer = csv.writer(csvfile)
-    writer.writerow(['Title', 'Author', 'Rating', 'Genre'])
+    writer.writerow(['Title', 'Author', 'Rating', 'Genre', 'Book Cover URL'])
     
     for book in book_elements:
         title_uncleaned = book.find('a', {'class' : 'bookTitle'})
         author_uncleaned = book.find('a', {'class' : 'authorName'})
         rating_uncleaned = book.find('span', {'class' : 'minirating'})
+        book_cover_uncleaned = book.find('img', {'class' : 'bookCover'})
+        book_cover_source = book_cover_uncleaned['src']
         
         title = title_uncleaned.text.strip()
         author = author_uncleaned.text.strip()
         rating = rating_uncleaned.text.strip()
-        genre = 'Magical Realism'
+        genre = 'Poetry'
         
-        writer.writerow([title, author, rating, genre]) 
+        writer.writerow([title, author, rating, genre, book_cover_source]) 
