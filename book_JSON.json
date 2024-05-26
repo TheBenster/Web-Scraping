@@ -1,0 +1,5592 @@
+{
+  "Absurdist Fiction": [
+    {
+      "title": "The Metamorphosis",
+      "author": "Franz Kafka",
+      "rating": 3
+    },
+    {
+      "title": "The Stranger",
+      "author": "Albert Camus",
+      "rating": 4
+    },
+    {
+      "title": "The Hitchhiker's Guide to the Galaxy (The Hitchhiker's Guide to the Galaxy, #1)",
+      "author": "Douglas Adams",
+      "rating": 4
+    },
+    {
+      "title": "1984",
+      "author": "George Orwell",
+      "rating": 4
+    },
+    {
+      "title": "Cat's Cradle",
+      "author": "Kurt Vonnegut Jr.",
+      "rating": 4
+    },
+    {
+      "title": "The Trial",
+      "author": "Franz Kafka",
+      "rating": 3
+    },
+    {
+      "title": "Catch-22",
+      "author": "Joseph Heller",
+      "rating": 3
+    },
+    {
+      "title": "Slaughterhouse-Five",
+      "author": "Kurt Vonnegut Jr.",
+      "rating": 4
+    },
+    {
+      "title": "Waiting for Godot",
+      "author": "Samuel Beckett",
+      "rating": 3
+    },
+    {
+      "title": "Animal Farm",
+      "author": "George Orwell",
+      "rating": 3
+    },
+    {
+      "title": "Breakfast of Champions",
+      "author": "Kurt Vonnegut Jr.",
+      "rating": 4
+    },
+    {
+      "title": "Fear and Loathing in Las Vegas",
+      "author": "Hunter S. Thompson",
+      "rating": 4
+    },
+    {
+      "title": "Alice's Adventures in Wonderland / Through the Looking-Glass",
+      "author": "Lewis Carroll",
+      "rating": 4
+    },
+    {
+      "title": "Rosencrantz and Guildenstern Are Dead",
+      "author": "Tom Stoppard",
+      "rating": 4
+    },
+    {
+      "title": "The Plague",
+      "author": "Albert Camus",
+      "rating": 4
+    },
+    {
+      "title": "The Bad Beginning (A Series of Unfortunate Events, #1)",
+      "author": "Lemony Snicket",
+      "rating": 3
+    },
+    {
+      "title": "Candide",
+      "author": "Voltaire",
+      "rating": 3
+    },
+    {
+      "title": "The Ultimate Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1-5)",
+      "author": "Douglas Adams",
+      "rating": 4
+    },
+    {
+      "title": "Perfume: The Story of a Murderer",
+      "author": "Patrick S\u00ef\u00bf\u00bdskind",
+      "rating": 4
+    },
+    {
+      "title": "The Castle",
+      "author": "Franz Kafka",
+      "rating": 3
+    },
+    {
+      "title": "Steppenwolf",
+      "author": "Hermann Hesse",
+      "rating": 4
+    },
+    {
+      "title": "The Myth of Sisyphus and Other Essays",
+      "author": "Albert Camus",
+      "rating": 4
+    },
+    {
+      "title": "No Exit and Three Other Plays",
+      "author": "Jean-Paul Sartre",
+      "rating": 4
+    },
+    {
+      "title": "Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch",
+      "author": "Terry Pratchett",
+      "rating": 4
+    },
+    {
+      "title": "The Fall",
+      "author": "Albert Camus",
+      "rating": 4
+    },
+    {
+      "title": "The New York Trilogy",
+      "author": "Paul Auster",
+      "rating": 3
+    },
+    {
+      "title": "Blindness",
+      "author": "Jos\u00ef\u00bf\u00bd Saramago",
+      "rating": 4
+    },
+    {
+      "title": "Nausea",
+      "author": "Jean-Paul Sartre",
+      "rating": 3
+    },
+    {
+      "title": "Franz Kafka: The Complete Stories",
+      "author": "Franz Kafka",
+      "rating": 4
+    },
+    {
+      "title": "Still Life with Woodpecker",
+      "author": "Tom Robbins",
+      "rating": 4
+    },
+    {
+      "title": "The Twelve Chairs",
+      "author": "Ilya Ilf",
+      "rating": 4
+    },
+    {
+      "title": "The Third Policeman",
+      "author": "Flann O'Brien",
+      "rating": 3
+    },
+    {
+      "title": "Dead Souls",
+      "author": "Nikolai Gogol",
+      "rating": 3
+    },
+    {
+      "title": "Tales of the Astonishing Black Spark",
+      "author": "Charlie J. Eskew",
+      "rating": 4
+    },
+    {
+      "title": "The Eyre Affair (Thursday Next, #1)",
+      "author": "Jasper Fforde",
+      "rating": 3
+    },
+    {
+      "title": "The Hunting of the Snark",
+      "author": "Lewis Carroll",
+      "rating": 4
+    },
+    {
+      "title": "Journey to the End of the Night",
+      "author": "Louis-Ferdinand C\u00ef\u00bf\u00bdline",
+      "rating": 4
+    },
+    {
+      "title": "The Devil Wears Prada (The Devil Wears Prada, #1)",
+      "author": "Lauren Weisberger",
+      "rating": 3
+    },
+    {
+      "title": "There's a Man in the Habit of Hitting me on the Head with an Umbrella",
+      "author": "Fernando Sorrentino",
+      "rating": 3
+    },
+    {
+      "title": "A Confederacy of Dunces",
+      "author": "John Kennedy Toole",
+      "rating": 3
+    },
+    {
+      "title": "Rhinoceros / The Chairs / The Lesson",
+      "author": "Eug\u00ef\u00bf\u00bdne Ionesco",
+      "rating": 4
+    },
+    {
+      "title": "Mort (Discworld, #4; Death, #1)",
+      "author": "Terry Pratchett",
+      "rating": 4
+    },
+    {
+      "title": "The Collected Tales of Nikolai Gogol",
+      "author": "Nikolai Gogol",
+      "rating": 4
+    },
+    {
+      "title": "The Bald Soprano and Other Plays",
+      "author": "Eug\u00ef\u00bf\u00bdne Ionesco",
+      "rating": 4
+    },
+    {
+      "title": "Notes from Underground, White Nights, The Dream of a Ridiculous Man, and Selections from The House of the Dead",
+      "author": "Fyodor Dostoevsky",
+      "rating": 4
+    },
+    {
+      "title": "Grendel",
+      "author": "John Gardner",
+      "rating": 3
+    },
+    {
+      "title": "Timequake",
+      "author": "Kurt Vonnegut Jr.",
+      "rating": 3
+    },
+    {
+      "title": "Deliverance",
+      "author": "James Dickey",
+      "rating": 3
+    },
+    {
+      "title": "Ubu Roi",
+      "author": "Alfred Jarry",
+      "rating": 3
+    },
+    {
+      "title": "The Crying of Lot 49",
+      "author": "Thomas Pynchon",
+      "rating": 3
+    },
+    {
+      "title": "Greegs & Ladders",
+      "author": "Zack Mitchell",
+      "rating": 3
+    },
+    {
+      "title": "The Strangest",
+      "author": "Michael J. Seidlinger",
+      "rating": 3
+    },
+    {
+      "title": "The Forlorn Exotic",
+      "author": "Joel Matulich",
+      "rating": 4
+    },
+    {
+      "title": "Accumulation",
+      "author": "Buan Boonaca",
+      "rating": 4
+    },
+    {
+      "title": "Unhappily Ever After: A Fairy Tale for Grown-ups",
+      "author": "Lucinda E. Clarke",
+      "rating": 4
+    },
+    {
+      "title": "OOF: An Online Outrage Fiesta for the Ages",
+      "author": "Strobe Witherspoon",
+      "rating": 3
+    },
+    {
+      "title": "The Sick Box",
+      "author": "Matthew  Fries",
+      "rating": 4
+    },
+    {
+      "title": "A Dirty Job (Grim Reaper, #1)",
+      "author": "Christopher Moore",
+      "rating": 4
+    },
+    {
+      "title": "Dogs of Orninica",
+      "author": "Daniel Unedo",
+      "rating": 3
+    },
+    {
+      "title": "Pedigree Crush with a Twisted Gene",
+      "author": "Katherine Black",
+      "rating": 4
+    },
+    {
+      "title": "Death by Zamboni",
+      "author": "David David Katzman",
+      "rating": 3
+    },
+    {
+      "title": "Leverage",
+      "author": "Katherine Black",
+      "rating": 4
+    },
+    {
+      "title": "A Question of Sanity",
+      "author": "Katherine Black",
+      "rating": 4
+    },
+    {
+      "title": "Gal\u00ef\u00bf\u00bdpagos",
+      "author": "Kurt Vonnegut Jr.",
+      "rating": 3
+    },
+    {
+      "title": "Nowhere Boulevard : Where Crazy Comes Out to Play",
+      "author": "Katherine Black",
+      "rating": 4
+    },
+    {
+      "title": "The Anarchist Kosher Cookbook",
+      "author": "Maxwell Bauman",
+      "rating": 3
+    },
+    {
+      "title": "The Caretaker",
+      "author": "Harold Pinter",
+      "rating": 3
+    },
+    {
+      "title": "Rapid Eye Movement",
+      "author": "Amanda Sheridan",
+      "rating": 4
+    },
+    {
+      "title": "The 100-Year-Old Man Who Climbed Out the Window and Disappeared (The Hundred-Year-Old Man, #1)",
+      "author": "Jonas Jonasson",
+      "rating": 3
+    },
+    {
+      "title": "Small Gods (Discworld, #13)",
+      "author": "Terry Pratchett",
+      "rating": 4
+    },
+    {
+      "title": "A Man Called Ove",
+      "author": "Fredrik Backman",
+      "rating": 4
+    },
+    {
+      "title": "The Birthday Party",
+      "author": "Harold Pinter",
+      "rating": 3
+    },
+    {
+      "title": "A Postmodern Belch",
+      "author": "M.J. Nicholls",
+      "rating": 3
+    },
+    {
+      "title": "Our Man in Havana",
+      "author": "Graham Greene",
+      "rating": 3
+    },
+    {
+      "title": "The Street of Crocodiles",
+      "author": "Bruno Schulz",
+      "rating": 4
+    }
+  ],
+  "Adventure": [
+    {
+      "title": "Bloody Jack (Bloody Jack, #1)",
+      "author": "L.A. Meyer",
+      "rating": 4
+    },
+    {
+      "title": "Curse of the Blue Tattoo: Being an Account of the Misadventures of Jacky Faber, Midshipman and Fine Lady (Bloody Jack, #2)",
+      "author": "L.A. Meyer",
+      "rating": 4
+    },
+    {
+      "title": "In the Belly of the Bloodhound: Being an Account of a Particularly Peculiar Adventure in the Life of Jacky Faber (Bloody Jack, #4)",
+      "author": "L.A. Meyer",
+      "rating": 4
+    },
+    {
+      "title": "Under the Jolly Roger: Being an Account of the Further Nautical Adventures of Jacky Faber (Bloody Jack, #3)",
+      "author": "L.A. Meyer",
+      "rating": 4
+    },
+    {
+      "title": "The Golden Compass (His Dark Materials, #1)",
+      "author": "Philip Pullman",
+      "rating": 4
+    },
+    {
+      "title": "My Bonny Light Horseman: Being an Account of the Further Adventures of Jacky Faber, in Love and War (Bloody Jack, #6)",
+      "author": "L.A. Meyer",
+      "rating": 4
+    },
+    {
+      "title": "Mississippi Jack: Being an Account of the Further Waterborne Adventures of Jacky Faber, Midshipman, Fine Lady, and Lily of the West (Bloody Jack, #5)",
+      "author": "L.A. Meyer",
+      "rating": 4
+    },
+    {
+      "title": "Rapture of the Deep: Being an Account of the Further Adventures of Jacky Faber, Soldier, Sailor, Mermaid, Spy (Bloody Jack, #7)",
+      "author": "L.A. Meyer",
+      "rating": 4
+    },
+    {
+      "title": "The Wake of the Lorelei Lee: Being an Account of the Adventures of Jacky Faber, on her Way to Botany Bay (Bloody Jack, #8)",
+      "author": "L.A. Meyer",
+      "rating": 4
+    },
+    {
+      "title": "The Cavalier (Heroes of the Empire, #1)",
+      "author": "Israh Azizi",
+      "rating": 4
+    },
+    {
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "rating": 4
+    },
+    {
+      "title": "The City of Ember (Book of Ember, #1)",
+      "author": "Jeanne DuPrau",
+      "rating": 3
+    },
+    {
+      "title": "Artemis Fowl (Artemis Fowl, #1)",
+      "author": "Eoin Colfer",
+      "rating": 3
+    },
+    {
+      "title": "The Odyssey",
+      "author": "Homer",
+      "rating": 3
+    },
+    {
+      "title": "A Game of Thrones (A Song of Ice and Fire, #1)",
+      "author": "George R.R. Martin",
+      "rating": 4
+    },
+    {
+      "title": "Howl\u2019s Moving Castle (Howl\u2019s Moving Castle, #1)",
+      "author": "Diana Wynne Jones",
+      "rating": 4
+    },
+    {
+      "title": "The Dark Is Rising (The Dark is Rising, #2)",
+      "author": "Susan Cooper",
+      "rating": 4
+    },
+    {
+      "title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "rating": 4
+    },
+    {
+      "title": "The Poisonwood Bible",
+      "author": "Barbara Kingsolver",
+      "rating": 4
+    },
+    {
+      "title": "The Name of the Wind (The Kingkiller Chronicle, #1)",
+      "author": "Patrick Rothfuss",
+      "rating": 4
+    },
+    {
+      "title": "The Warrior Heir (The Heir Chronicles, #1)",
+      "author": "Cinda Williams Chima",
+      "rating": 3
+    },
+    {
+      "title": "The Fellowship of the Ring (The Lord of the Rings, #1)",
+      "author": "J.R.R. Tolkien",
+      "rating": 4
+    },
+    {
+      "title": "Poison Study (Study, #1)",
+      "author": "Maria V. Snyder",
+      "rating": 4
+    },
+    {
+      "title": "The Mark of the Golden Dragon: Being an Account of the Further Adventures of Jacky Faber, Jewel of the East, Vexation of the West, and Pearl of the South China Sea (Bloody Jack, #9)",
+      "author": "L.A. Meyer",
+      "rating": 4
+    },
+    {
+      "title": "The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1)",
+      "author": "Douglas Adams",
+      "rating": 4
+    },
+    {
+      "title": "The Return of the King (The Lord of the Rings, #3)",
+      "author": "J.R.R. Tolkien",
+      "rating": 4
+    },
+    {
+      "title": "The Unparalleled Adventure of One Hans Pfaall",
+      "author": "Edgar Allan Poe",
+      "rating": 3
+    },
+    {
+      "title": "Treasure Island",
+      "author": "Robert Louis Stevenson",
+      "rating": 3
+    },
+    {
+      "title": "Saving Paradise (Pono Hawkins #1)",
+      "author": "Mike Bond",
+      "rating": 3
+    },
+    {
+      "title": "The Princess Bride",
+      "author": "William Goldman",
+      "rating": 4
+    },
+    {
+      "title": "Don't Let's Go to the Dogs Tonight: An African Childhood",
+      "author": "Alexandra Fuller",
+      "rating": 3
+    },
+    {
+      "title": "Nim's Island (Nim #1)",
+      "author": "Wendy Orr",
+      "rating": 3
+    },
+    {
+      "title": "Life of Pi",
+      "author": "Yann Martel",
+      "rating": 3
+    },
+    {
+      "title": "The Iliad",
+      "author": "Homer",
+      "rating": 3
+    },
+    {
+      "title": "The Subtle Knife (His Dark Materials, #2)",
+      "author": "Philip Pullman",
+      "rating": 4
+    },
+    {
+      "title": "Ivanhoe",
+      "author": "Walter Scott",
+      "rating": 3
+    },
+    {
+      "title": "Viva Jacquelina! Being an Account of the Further Adventures of Jacky Faber, Over the Hills and Far Away (Bloody Jack, #10)",
+      "author": "L.A. Meyer",
+      "rating": 4
+    },
+    {
+      "title": "Lonesome Dove (Lonesome Dove, #1)",
+      "author": "Larry McMurtry",
+      "rating": 4
+    },
+    {
+      "title": "Harry Potter and the Deathly Hallows (Harry Potter, #7)",
+      "author": "J.K. Rowling",
+      "rating": 4
+    },
+    {
+      "title": "The Wise Man's Fear (The Kingkiller Chronicle, #2)",
+      "author": "Patrick Rothfuss",
+      "rating": 4
+    },
+    {
+      "title": "The Chronicles of Narnia (Chronicles of Narnia, #1-7)",
+      "author": "C.S. Lewis",
+      "rating": 4
+    },
+    {
+      "title": "The Dark Hills Divide (The Land of Elyon, #1)",
+      "author": "Patrick Carman",
+      "rating": 3
+    },
+    {
+      "title": "The Tenth City (The Land of Elyon, #3)",
+      "author": "Patrick Carman",
+      "rating": 3
+    },
+    {
+      "title": "Beyond the Valley of Thorns (The Land of Elyon, #2)",
+      "author": "Patrick Carman",
+      "rating": 3
+    },
+    {
+      "title": "Eragon (The Inheritance Cycle, #1)",
+      "author": "Christopher Paolini",
+      "rating": 3
+    },
+    {
+      "title": "+Anima 1 (+Anima, #1)",
+      "author": "Natsumi Mukai",
+      "rating": 4
+    },
+    {
+      "title": "The Horse and His Boy (Chronicles of Narnia, #5)",
+      "author": "C.S. Lewis",
+      "rating": 3
+    },
+    {
+      "title": "Magyk (Septimus Heap, #1)",
+      "author": "Angie Sage",
+      "rating": 3
+    },
+    {
+      "title": "Journey to the Center of the Earth",
+      "author": "Jules Verne",
+      "rating": 3
+    },
+    {
+      "title": "The Narrative of Arthur Gordon Pym of Nantucket",
+      "author": "Edgar Allan Poe",
+      "rating": 3
+    },
+    {
+      "title": "Pieces of Eight: A Story of Sex & Love, Trust & Betrayal",
+      "author": "Michael Richard Reed McLaughlin",
+      "rating": 3
+    },
+    {
+      "title": "Airborn (Matt Cruse, #1)",
+      "author": "Kenneth Oppel",
+      "rating": 4
+    },
+    {
+      "title": "Redwall (Redwall, #1)",
+      "author": "Brian Jacques",
+      "rating": 4
+    },
+    {
+      "title": "Song of the Current (Song of the Current, #1)",
+      "author": "Sarah Tolcser",
+      "rating": 3
+    },
+    {
+      "title": "The Cavalier (Heroes of the Empire, #1)",
+      "author": "Israh Azizi",
+      "rating": 4
+    },
+    {
+      "title": "Starclimber (Matt Cruse, #3)",
+      "author": "Kenneth Oppel",
+      "rating": 4
+    },
+    {
+      "title": "Martin the Warrior (Redwall, #6)",
+      "author": "Brian Jacques",
+      "rating": 4
+    },
+    {
+      "title": "Sun and Moon, Ice and Snow",
+      "author": "Jessica Day George",
+      "rating": 3
+    },
+    {
+      "title": "Whisper of the Tide (Song of the Current, #2)",
+      "author": "Sarah Tolcser",
+      "rating": 4
+    },
+    {
+      "title": "Ocean's Echo",
+      "author": "Everina Maxwell",
+      "rating": 4
+    },
+    {
+      "title": "Skybreaker (Matt Cruse, #2)",
+      "author": "Kenneth Oppel",
+      "rating": 4
+    },
+    {
+      "title": "The Jungle Book",
+      "author": "Rudyard Kipling",
+      "rating": 3
+    },
+    {
+      "title": "Mattimeo (Redwall, #3)",
+      "author": "Brian Jacques",
+      "rating": 4
+    },
+    {
+      "title": "The Long Way to a Small, Angry Planet (Wayfarers, #1)",
+      "author": "Becky  Chambers",
+      "rating": 4
+    },
+    {
+      "title": "Stormbreaker (Alex Rider, #1)",
+      "author": "Anthony Horowitz",
+      "rating": 3
+    },
+    {
+      "title": "The Flame Trees of Thika: Memories of an African Childhood",
+      "author": "Elspeth Huxley",
+      "rating": 4
+    },
+    {
+      "title": "The Three Musketeers (The D'Artagnan Romances, #1)",
+      "author": "Alexandre Dumas",
+      "rating": 4
+    },
+    {
+      "title": "The Oaken Throne (The Deptford Histories, #2)",
+      "author": "Robin Jarvis",
+      "rating": 4
+    },
+    {
+      "title": "The Hundred-Year-Old Man Who Climbed Out of the Window and Disappeared (The Hundred-Year-Old Man, #1)",
+      "author": "Jonas Jonasson",
+      "rating": 3
+    },
+    {
+      "title": "The Wind Through the Keyhole",
+      "author": "Stephen King",
+      "rating": 4
+    },
+    {
+      "title": "Thomas (The Deptford Histories, #3)",
+      "author": "Robin Jarvis",
+      "rating": 4
+    },
+    {
+      "title": "Less Is Lost (Arthur Less, #2)",
+      "author": "Andrew Sean Greer",
+      "rating": 3
+    },
+    {
+      "title": "Don Quixote",
+      "author": "Miguel de Cervantes Saavedra",
+      "rating": 3
+    },
+    {
+      "title": "Thorn Ogres Of Hagwood (The Hagwood Trilogy, #1)",
+      "author": "Robin Jarvis",
+      "rating": 3
+    },
+    {
+      "title": "Magician (The Riftwar Saga, #1-2)",
+      "author": "Raymond E. Feist",
+      "rating": 4
+    },
+    {
+      "title": "Dark Waters Of Hagwood (The Hagwood Trilogy, #2)",
+      "author": "Robin Jarvis",
+      "rating": 3
+    },
+    {
+      "title": "Scorpia (Alex Rider, #5)",
+      "author": "Anthony Horowitz",
+      "rating": 4
+    },
+    {
+      "title": "War in Hagwood (The Hagwood Trilogy Book 3)",
+      "author": "Robin Jarvis",
+      "rating": 4
+    },
+    {
+      "title": "Ten Years Later (The D'Artagnan Romances, #3.2)",
+      "author": "Alexandre Dumas",
+      "rating": 3
+    },
+    {
+      "title": "Beet the Vandel Buster, Vol. 1",
+      "author": "Riku Sanjo",
+      "rating": 4
+    },
+    {
+      "title": "Twenty Years After (The d'Artagnan Romances, #2)",
+      "author": "Alexandre Dumas",
+      "rating": 4
+    },
+    {
+      "title": "Kazan (Kazan #1)",
+      "author": "Gaku Miyao",
+      "rating": 3
+    },
+    {
+      "title": "Legenda Naga Vol. 1",
+      "author": "Yoshito Yamahara",
+      "rating": 4
+    },
+    {
+      "title": "The Two Towers (The Lord of the Rings, #2)",
+      "author": "J.R.R. Tolkien",
+      "rating": 4
+    },
+    {
+      "title": "Drifters Volume 1",
+      "author": "Kohta Hirano",
+      "rating": 3
+    },
+    {
+      "title": "Little (Grrl) Lost (Newford, #16)",
+      "author": "Charles de Lint",
+      "rating": 3
+    },
+    {
+      "title": "Timeline",
+      "author": "Michael Crichton",
+      "rating": 3
+    },
+    {
+      "title": "Hunter x Hunter, Vol. 01 (Hunter x Hunter, #1)",
+      "author": "Yoshihiro Togashi",
+      "rating": 4
+    },
+    {
+      "title": "The Silmarillion",
+      "author": "J.R.R. Tolkien",
+      "rating": 3
+    },
+    {
+      "title": "The Voyage of the Dawn Treader (Chronicles of Narnia, #3)",
+      "author": "C.S. Lewis",
+      "rating": 4
+    },
+    {
+      "title": "Pirates!",
+      "author": "Celia Rees",
+      "rating": 3
+    },
+    {
+      "title": "Dealing with Dragons (Enchanted Forest Chronicles, #1)",
+      "author": "Patricia C. Wrede",
+      "rating": 4
+    },
+    {
+      "title": "The Lion, the Witch and the Wardrobe (Chronicles of Narnia, #1)",
+      "author": "C.S. Lewis",
+      "rating": 4
+    },
+    {
+      "title": "Alanna: The First Adventure (Song of the Lioness, #1)",
+      "author": "Tamora Pierce",
+      "rating": 4
+    },
+    {
+      "title": "Five Weeks in a Balloon",
+      "author": "Jules Verne",
+      "rating": 3
+    },
+    {
+      "title": "The Girl in the Steel Corset (Steampunk Chronicles, #1)",
+      "author": "Kady Cross",
+      "rating": 3
+    },
+    {
+      "title": "Harry Potter and the Order of the Phoenix (Harry Potter, #5)",
+      "author": "J.K. Rowling",
+      "rating": 4
+    },
+    {
+      "title": "The Seer and the Sword",
+      "author": "Victoria Hanley",
+      "rating": 4
+    },
+    {
+      "title": "Throne of Glass (Throne of Glass, #1)",
+      "author": "Sarah J. Maas",
+      "rating": 4
+    },
+    {
+      "title": "Harry Potter and the Goblet of Fire (Harry Potter, #4)",
+      "author": "J.K. Rowling",
+      "rating": 4
+    },
+    {
+      "title": "John Adams",
+      "author": "David McCullough",
+      "rating": 4
+    },
+    {
+      "title": "The Rise and Fall of the Third Reich: A History of Nazi Germany",
+      "author": "William L. Shirer",
+      "rating": 4
+    },
+    {
+      "title": "1776",
+      "author": "David McCullough",
+      "rating": 4
+    },
+    {
+      "title": "The Guns of August",
+      "author": "Barbara W. Tuchman",
+      "rating": 4
+    },
+    {
+      "title": "Team of Rivals: The Political Genius of Abraham Lincoln",
+      "author": "Doris Kearns Goodwin",
+      "rating": 4
+    },
+    {
+      "title": "Guns, Germs, and Steel: The Fates of Human Societies",
+      "author": "Jared Diamond",
+      "rating": 4
+    },
+    {
+      "title": "The Diary of a Young Girl",
+      "author": "Anne Frank",
+      "rating": 4
+    },
+    {
+      "title": "Unbroken: A World War II Story of Survival, Resilience and Redemption",
+      "author": "Laura Hillenbrand",
+      "rating": 4
+    },
+    {
+      "title": "Bury My Heart at Wounded Knee: An Indian History of the American West",
+      "author": "Dee Brown",
+      "rating": 4
+    },
+    {
+      "title": "A People's History of the United States",
+      "author": "Howard Zinn",
+      "rating": 4
+    },
+    {
+      "title": "A Distant Mirror:  The Calamitous 14th Century",
+      "author": "Barbara W. Tuchman",
+      "rating": 4
+    },
+    {
+      "title": "The Devil in the White City",
+      "author": "Erik Larson",
+      "rating": 4
+    },
+    {
+      "title": "A Short History of Nearly Everything",
+      "author": "Bill Bryson",
+      "rating": 4
+    },
+    {
+      "title": "Battle Cry of Freedom",
+      "author": "James M. McPherson",
+      "rating": 4
+    },
+    {
+      "title": "Night  (The Night Trilogy, #1)",
+      "author": "Elie Wiesel",
+      "rating": 4
+    },
+    {
+      "title": "The Histories",
+      "author": "Herodotus",
+      "rating": 3
+    },
+    {
+      "title": "The Decline and Fall of the Roman Empire",
+      "author": "Edward Gibbon",
+      "rating": 4
+    },
+    {
+      "title": "Undaunted Courage: The Pioneering First Mission to Explore America's Wild Frontier",
+      "author": "Stephen E. Ambrose",
+      "rating": 4
+    },
+    {
+      "title": "Truman",
+      "author": "David McCullough",
+      "rating": 4
+    },
+    {
+      "title": "The Rape of Nanking: The Forgotten Holocaust of World War II",
+      "author": "Iris Chang",
+      "rating": 4
+    },
+    {
+      "title": "The Trigger: Hunting the Assassin Who Brought the World to War",
+      "author": "Tim Butcher",
+      "rating": 3
+    },
+    {
+      "title": "Stalingrad: The Fateful Siege, 1942\u20131943",
+      "author": "Antony Beevor",
+      "rating": 4
+    },
+    {
+      "title": "Hiroshima",
+      "author": "John Hersey",
+      "rating": 4
+    },
+    {
+      "title": "1491: New Revelations of the Americas Before Columbus",
+      "author": "Charles C. Mann",
+      "rating": 4
+    },
+    {
+      "title": "History of the Peloponnesian War",
+      "author": "Thucydides",
+      "rating": 3
+    },
+    {
+      "title": "The Rise of Theodore Roosevelt",
+      "author": "Edmund Morris",
+      "rating": 4
+    },
+    {
+      "title": "Mary Edwards Walker: America's Only Female Medal of Honor Recipient",
+      "author": "Ammar Habib",
+      "rating": 4
+    },
+    {
+      "title": "Band of Brothers: E Company, 506th Regiment, 101st Airborne from Normandy to Hitler's Eagle's Nest",
+      "author": "Stephen E. Ambrose",
+      "rating": 4
+    },
+    {
+      "title": "The Civil War: A Narrative",
+      "author": "Shelby Foote",
+      "rating": 4
+    },
+    {
+      "title": "Endurance: Shackleton's Incredible Voyage",
+      "author": "Alfred Lansing",
+      "rating": 4
+    },
+    {
+      "title": "Peter the Great: His Life and World",
+      "author": "Robert K. Massie",
+      "rating": 4
+    },
+    {
+      "title": "Genghis Khan and the Making of the Modern World",
+      "author": "Jack Weatherford",
+      "rating": 4
+    },
+    {
+      "title": "Alexander Hamilton",
+      "author": "Ron Chernow",
+      "rating": 4
+    },
+    {
+      "title": "The Worst Hard Time: The Untold Story of Those Who Survived the Great American Dust Bowl",
+      "author": "Timothy Egan",
+      "rating": 4
+    },
+    {
+      "title": "Catherine the Great: Portrait of a Woman",
+      "author": "Robert K. Massie",
+      "rating": 3
+    },
+    {
+      "title": "Mayflower: A Story of Courage, Community, and War",
+      "author": "Nathaniel Philbrick",
+      "rating": 3
+    },
+    {
+      "title": "Paris, 1919: Six Months that Changed the World",
+      "author": "Margaret MacMillan",
+      "rating": 4
+    },
+    {
+      "title": "King Leopold's Ghost: A Story of Greed, Terror, and Heroism in Colonial Africa",
+      "author": "Adam Hochschild",
+      "rating": 4
+    },
+    {
+      "title": "The Gulag Archipelago 1918\u20131956",
+      "author": "Aleksandr Solzhenitsyn",
+      "rating": 4
+    },
+    {
+      "title": "Nicholas and Alexandra: The Classic Account of the Fall of the Romanov Dynasty",
+      "author": "Robert K. Massie",
+      "rating": 4
+    },
+    {
+      "title": "The Twelve Caesars",
+      "author": "Suetonius",
+      "rating": 4
+    },
+    {
+      "title": "In the Heart of the Sea: The Tragedy of the Whaleship Essex",
+      "author": "Nathaniel Philbrick",
+      "rating": 4
+    },
+    {
+      "title": "The Proud Tower: A Portrait of the World Before the War, 1890-1914",
+      "author": "Barbara W. Tuchman",
+      "rating": 4
+    },
+    {
+      "title": "Lies My Teacher Told Me: Everything Your American History Textbook Got Wrong",
+      "author": "James W. Loewen",
+      "rating": 3
+    },
+    {
+      "title": "Theodore Rex",
+      "author": "Edmund Morris",
+      "rating": 4
+    },
+    {
+      "title": "Ghost Soldiers: The Epic Account of World War II's Greatest Rescue Mission",
+      "author": "Hampton Sides",
+      "rating": 4
+    },
+    {
+      "title": "Empire of the Summer Moon: Quanah Parker and the Rise and Fall of the Comanches, the Most Powerful Indian Tribe in American History",
+      "author": "S.C. Gwynne",
+      "rating": 4
+    },
+    {
+      "title": "The Professor and the Madman: A Tale of Murder, Insanity and the Making of the Oxford English Dictionary",
+      "author": "Simon Winchester",
+      "rating": 3
+    },
+    {
+      "title": "Collapse: How Societies Choose to Fail or Succeed",
+      "author": "Jared Diamond",
+      "rating": 3
+    },
+    {
+      "title": "Manhunt: The 12-Day Chase for Lincoln's Killer",
+      "author": "James L. Swanson",
+      "rating": 4
+    },
+    {
+      "title": "With the Old Breed: At Peleliu and Okinawa",
+      "author": "E.B. Sledge",
+      "rating": 4
+    },
+    {
+      "title": "How the Irish Saved Civilization: The Untold Story of Ireland's Heroic Role from the Fall of Rome to the Rise of Medieval Europe",
+      "author": "Thomas Cahill",
+      "rating": 3
+    },
+    {
+      "title": "Rubicon: The Last Years of the Roman Republic",
+      "author": "Tom Holland",
+      "rating": 4
+    },
+    {
+      "title": "Citizen Soldiers: The US Army from the Normandy Beaches to the Bulge to the Surrender of Germany",
+      "author": "Stephen E. Ambrose",
+      "rating": 4
+    },
+    {
+      "title": "The Making of the Atomic Bomb",
+      "author": "Richard Rhodes",
+      "rating": 4
+    },
+    {
+      "title": "The Fall of Berlin 1945",
+      "author": "Antony Beevor",
+      "rating": 4
+    },
+    {
+      "title": "Destiny of the Republic: A Tale of Madness, Medicine and the Murder of a President",
+      "author": "Candice Millard",
+      "rating": 4
+    },
+    {
+      "title": "Einstein: His Life and Universe",
+      "author": "Walter Isaacson",
+      "rating": 4
+    },
+    {
+      "title": "Longitude: The True Story of a Lone Genius Who Solved the Greatest Scientific Problem of His Time",
+      "author": "Dava Sobel",
+      "rating": 3
+    },
+    {
+      "title": "The Federalist Papers",
+      "author": "Alexander Hamilton",
+      "rating": 4
+    },
+    {
+      "title": "No Ordinary Time: Franklin and Eleanor Roosevelt: The Home Front in World War II",
+      "author": "Doris Kearns Goodwin",
+      "rating": 4
+    },
+    {
+      "title": "Salt: A World History",
+      "author": "Mark Kurlansky",
+      "rating": 3
+    },
+    {
+      "title": "The Longest Day",
+      "author": "Cornelius Ryan",
+      "rating": 4
+    },
+    {
+      "title": "The Coming of the Third Reich (The History of the Third Reich, #1)",
+      "author": "Richard J. Evans",
+      "rating": 4
+    },
+    {
+      "title": "Tesla: Inventor of the Modern",
+      "author": "Richard Munson",
+      "rating": 3
+    },
+    {
+      "title": "Bloodlands: Europe Between Hitler and Stalin",
+      "author": "Timothy Snyder",
+      "rating": 4
+    },
+    {
+      "title": "Europe: A History",
+      "author": "Norman Davies",
+      "rating": 4
+    },
+    {
+      "title": "The Path Between the Seas: The Creation of the Panama Canal, 1870-1914",
+      "author": "David McCullough",
+      "rating": 4
+    },
+    {
+      "title": "Founding Brothers: The Revolutionary Generation",
+      "author": "Joseph J. Ellis",
+      "rating": 3
+    },
+    {
+      "title": "His Excellency: George Washington",
+      "author": "Joseph J. Ellis",
+      "rating": 3
+    },
+    {
+      "title": "The Last Lion: Winston Spencer Churchill: Visions of Glory, 1874-1932",
+      "author": "William Manchester",
+      "rating": 4
+    },
+    {
+      "title": "A People's Tragedy: The Russian Revolution, 1891 - 1924",
+      "author": "Orlando Figes",
+      "rating": 4
+    },
+    {
+      "title": "Hitler: 1889-1936 Hubris",
+      "author": "Ian Kershaw",
+      "rating": 4
+    },
+    {
+      "title": "Black Hawk Down: A Story of Modern War",
+      "author": "Mark Bowden",
+      "rating": 4
+    },
+    {
+      "title": "The March of Folly: From Troy to Vietnam",
+      "author": "Barbara W. Tuchman",
+      "rating": 4
+    },
+    {
+      "title": "Washington's Crossing",
+      "author": "David Hackett Fischer",
+      "rating": 4
+    },
+    {
+      "title": "Marie Antoinette: The Journey",
+      "author": "Antonia Fraser",
+      "rating": 3
+    },
+    {
+      "title": "We Were Soldiers Once... and Young: Ia Drang - The Battle that Changed the War in Vietnam",
+      "author": "Harold G. Moore",
+      "rating": 4
+    },
+    {
+      "title": "Cleopatra: A Life",
+      "author": "Stacy Schiff",
+      "rating": 3
+    },
+    {
+      "title": "An Army at Dawn: The War in North Africa, 1942-1943 (World War II Liberation Trilogy, #1)",
+      "author": "Rick Atkinson",
+      "rating": 4
+    },
+    {
+      "title": "Mornings on Horseback: The Story of an Extraordinary Family, a Vanished Way of Life, and the Unique Child Who Became Theodore Roosevelt",
+      "author": "David McCullough",
+      "rating": 4
+    },
+    {
+      "title": "The Prize: The Epic Quest for Oil, Money, and Power",
+      "author": "Daniel Yergin",
+      "rating": 4
+    },
+    {
+      "title": "A Peace to End All Peace: The Fall of the Ottoman Empire and The Creation of the Modern Middle East",
+      "author": "David Fromkin",
+      "rating": 4
+    },
+    {
+      "title": "A Night to Remember",
+      "author": "Walter Lord",
+      "rating": 4
+    },
+    {
+      "title": "Washington: A Life",
+      "author": "Ron Chernow",
+      "rating": 4
+    },
+    {
+      "title": "April 1865: The Month That Saved America",
+      "author": "Jay Winik",
+      "rating": 4
+    },
+    {
+      "title": "1066: The Year of the Conquest",
+      "author": "David Howarth",
+      "rating": 4
+    },
+    {
+      "title": "The Path to Power",
+      "author": "Robert A. Caro",
+      "rating": 4
+    },
+    {
+      "title": "The Sleepwalkers: How Europe Went to War in 1914",
+      "author": "Christopher   Clark",
+      "rating": 4
+    },
+    {
+      "title": "D-Day, June 6, 1944: The Battle for the Normandy Beaches",
+      "author": "Stephen E. Ambrose",
+      "rating": 4
+    },
+    {
+      "title": "Master of the Senate",
+      "author": "Robert A. Caro",
+      "rating": 4
+    },
+    {
+      "title": "The German Genius: Europe's Third Renaissance, the Second Scientific Revolution, and the Twentieth Century",
+      "author": "Peter Watson",
+      "rating": 4
+    },
+    {
+      "title": "From Beirut to Jerusalem",
+      "author": "Thomas L. Friedman",
+      "rating": 4
+    },
+    {
+      "title": "The Island at the Center of the World: The Epic Story of Dutch Manhattan and the Forgotten Colony That Shaped America",
+      "author": "Russell Shorto",
+      "rating": 4
+    },
+    {
+      "title": "The History of the Ancient World: From the Earliest Accounts to the Fall of Rome",
+      "author": "Susan Wise Bauer",
+      "rating": 4
+    },
+    {
+      "title": "Legacy of Ashes: The History of the CIA",
+      "author": "Tim Weiner",
+      "rating": 3
+    },
+    {
+      "title": "The Annals of Imperial Rome",
+      "author": "Tacitus",
+      "rating": 3
+    },
+    {
+      "title": "A Midwife's Tale: The Life of Martha Ballard, Based on Her Diary, 1785-1812",
+      "author": "Laurel Thatcher Ulrich",
+      "rating": 3
+    },
+    {
+      "title": "The Blood Never Dried: A People's History of the British Empire",
+      "author": "John Newsinger",
+      "rating": 4
+    },
+    {
+      "title": "Hitler: 1936-1945 Nemesis",
+      "author": "Ian Kershaw",
+      "rating": 4
+    },
+    {
+      "title": "A Short History of Nearly Everything",
+      "author": "Bill Bryson",
+      "rating": 4
+    },
+    {
+      "title": "A Brief History of Time",
+      "author": "Stephen Hawking",
+      "rating": 4
+    },
+    {
+      "title": "Cosmos",
+      "author": "Carl Sagan",
+      "rating": 4
+    },
+    {
+      "title": "The Selfish Gene",
+      "author": "Richard Dawkins",
+      "rating": 4
+    },
+    {
+      "title": "Guns, Germs, and Steel: The Fates of Human Societies",
+      "author": "Jared Diamond",
+      "rating": 4
+    },
+    {
+      "title": "The Demon-Haunted World: Science as a Candle in the Dark",
+      "author": "Carl Sagan",
+      "rating": 4
+    },
+    {
+      "title": "\"Surely You're Joking, Mr. Feynman!\": Adventures of a Curious Character",
+      "author": "Richard P. Feynman",
+      "rating": 4
+    },
+    {
+      "title": "The Origin of Species",
+      "author": "Charles Darwin",
+      "rating": 4
+    },
+    {
+      "title": "The Immortal Life of Henrietta Lacks",
+      "author": "Rebecca Skloot",
+      "rating": 4
+    },
+    {
+      "title": "Freakonomics: A Rogue Economist Explores the Hidden Side of Everything",
+      "author": "Steven D. Levitt",
+      "rating": 4
+    },
+    {
+      "title": "The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory",
+      "author": "Brian Greene",
+      "rating": 4
+    },
+    {
+      "title": "G\u00f6del, Escher, Bach: An Eternal Golden Braid",
+      "author": "Douglas R. Hofstadter",
+      "rating": 4
+    },
+    {
+      "title": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "rating": 4
+    },
+    {
+      "title": "The Man Who Mistook His Wife for a Hat and Other Clinical Tales",
+      "author": "Oliver Sacks",
+      "rating": 4
+    },
+    {
+      "title": "Sapiens: A Brief History of Humankind",
+      "author": "Yuval Noah Harari",
+      "rating": 4
+    },
+    {
+      "title": "The Greatest Show on Earth: The Evidence for Evolution",
+      "author": "Richard Dawkins",
+      "rating": 4
+    },
+    {
+      "title": "The Hot Zone: The Terrifying True Story of the Origins of the Ebola Virus",
+      "author": "Richard   Preston",
+      "rating": 4
+    },
+    {
+      "title": "The Feynman Lectures on Physics",
+      "author": "Richard P. Feynman",
+      "rating": 4
+    },
+    {
+      "title": "The Universe in a Nutshell",
+      "author": "Stephen Hawking",
+      "rating": 4
+    },
+    {
+      "title": "Pale Blue Dot: A Vision of the Human Future in Space",
+      "author": "Carl Sagan",
+      "rating": 4
+    },
+    {
+      "title": "The Blind Watchmaker: Why the Evidence of Evolution Reveals a Universe Without Design",
+      "author": "Richard Dawkins",
+      "rating": 4
+    },
+    {
+      "title": "Chaos: Making a New Science",
+      "author": "James Gleick",
+      "rating": 4
+    },
+    {
+      "title": "The Ancestor's Tale: A Pilgrimage to the Dawn of Evolution",
+      "author": "Richard Dawkins",
+      "rating": 4
+    },
+    {
+      "title": "Outliers: The Story of Success",
+      "author": "Malcolm Gladwell",
+      "rating": 4
+    },
+    {
+      "title": "The Disappearing Spoon: And Other True Tales of Madness, Love, and the History of the World from the Periodic Table of the Elements",
+      "author": "Sam Kean",
+      "rating": 3
+    },
+    {
+      "title": "Stiff: The Curious Lives of Human Cadavers",
+      "author": "Mary Roach",
+      "rating": 4
+    },
+    {
+      "title": "Collapse: How Societies Choose to Fail or Succeed",
+      "author": "Jared Diamond",
+      "rating": 3
+    },
+    {
+      "title": "Fermat's Enigma",
+      "author": "Simon Singh",
+      "rating": 4
+    },
+    {
+      "title": "The Emperor of All Maladies: A Biography of Cancer",
+      "author": "Siddhartha Mukherjee",
+      "rating": 4
+    },
+    {
+      "title": "What If? Serious Scientific Answers to Absurd Hypothetical Questions (What If?, #1)",
+      "author": "Randall Munroe",
+      "rating": 4
+    },
+    {
+      "title": "The Fabric of the Cosmos: Space, Time, and the Texture of Reality",
+      "author": "Brian Greene",
+      "rating": 4
+    },
+    {
+      "title": "Genome: the Autobiography of a Species in 23 Chapters",
+      "author": "Matt Ridley",
+      "rating": 4
+    },
+    {
+      "title": "Longitude: The True Story of a Lone Genius Who Solved the Greatest Scientific Problem of His Time",
+      "author": "Dava Sobel",
+      "rating": 3
+    },
+    {
+      "title": "Blink: The Power of Thinking Without Thinking",
+      "author": "Malcolm Gladwell",
+      "rating": 3
+    },
+    {
+      "title": "Your Inner Fish: a Journey into the 3.5-Billion-Year History of the Human Body",
+      "author": "Neil Shubin",
+      "rating": 4
+    },
+    {
+      "title": "The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography",
+      "author": "Simon Singh",
+      "rating": 4
+    },
+    {
+      "title": "The Making of the Atomic Bomb",
+      "author": "Richard Rhodes",
+      "rating": 4
+    },
+    {
+      "title": "Six Easy Pieces: Essentials of Physics By Its Most Brilliant Teacher",
+      "author": "Richard P. Feynman",
+      "rating": 4
+    },
+    {
+      "title": "The Structure of Scientific Revolutions",
+      "author": "Thomas S. Kuhn",
+      "rating": 4
+    },
+    {
+      "title": "Last Chance to See",
+      "author": "Douglas Adams",
+      "rating": 4
+    },
+    {
+      "title": "Silent Spring",
+      "author": "Rachel Carson",
+      "rating": 4
+    },
+    {
+      "title": "The World Without Us",
+      "author": "Alan Weisman",
+      "rating": 3
+    },
+    {
+      "title": "Dragons of Eden: Speculations on the Evolution of Human Intelligence",
+      "author": "Carl Sagan",
+      "rating": 4
+    },
+    {
+      "title": "The Grand Design",
+      "author": "Stephen Hawking",
+      "rating": 4
+    },
+    {
+      "title": "Wonderful Life: The Burgess Shale and the Nature of History",
+      "author": "Stephen Jay Gould",
+      "rating": 4
+    },
+    {
+      "title": "The Language Instinct: How the Mind Creates Language",
+      "author": "Steven Pinker",
+      "rating": 4
+    },
+    {
+      "title": "How the Mind Works",
+      "author": "Steven Pinker",
+      "rating": 3
+    },
+    {
+      "title": "The Coming Plague: Newly Emerging Diseases in a World Out of Balance",
+      "author": "Laurie Garrett",
+      "rating": 4
+    },
+    {
+      "title": "Hyperspace: A Scientific Odyssey Through Parallel Universes, Time Warps, and the Tenth Dimension",
+      "author": "Michio Kaku",
+      "rating": 4
+    },
+    {
+      "title": "Bad Science",
+      "author": "Ben Goldacre",
+      "rating": 4
+    },
+    {
+      "title": "The Double Helix",
+      "author": "James D. Watson",
+      "rating": 3
+    },
+    {
+      "title": "The Tipping Point: How Little Things Can Make a Big Difference",
+      "author": "Malcolm Gladwell",
+      "rating": 4
+    },
+    {
+      "title": "Death by Black Hole: And Other Cosmic Quandaries",
+      "author": "Neil deGrasse Tyson",
+      "rating": 4
+    },
+    {
+      "title": "The Blank Slate: The Modern Denial of Human Nature",
+      "author": "Steven Pinker",
+      "rating": 4
+    },
+    {
+      "title": "A Universe from Nothing: Why There Is Something Rather Than Nothing",
+      "author": "Lawrence M. Krauss",
+      "rating": 3
+    },
+    {
+      "title": "Physics of the Impossible",
+      "author": "Michio Kaku",
+      "rating": 4
+    },
+    {
+      "title": "Quiet: The Power of Introverts in a World That Can't Stop Talking",
+      "author": "Susan Cain",
+      "rating": 4
+    },
+    {
+      "title": "The Great Influenza: The Story of the Deadliest Pandemic in History",
+      "author": "John M. Barry",
+      "rating": 3
+    },
+    {
+      "title": "The Lives of a Cell: Notes of a Biology Watcher",
+      "author": "Lewis Thomas",
+      "rating": 4
+    },
+    {
+      "title": "The Third Chimpanzee: The Evolution and Future of the Human Animal",
+      "author": "Jared Diamond",
+      "rating": 4
+    },
+    {
+      "title": "The Ghost Map: The Story of London's Most Terrifying Epidemic\u2014and How It Changed Science, Cities, and the Modern World",
+      "author": "Steven Johnson",
+      "rating": 3
+    },
+    {
+      "title": "Relativity: The Special and the General Theory",
+      "author": "Albert Einstein",
+      "rating": 4
+    },
+    {
+      "title": "The Drunkard's Walk: How Randomness Rules Our Lives",
+      "author": "Leonard Mlodinow",
+      "rating": 3
+    },
+    {
+      "title": "\"What Do You Care What Other People Think?\": Further Adventures of a Curious Character",
+      "author": "Richard P. Feynman",
+      "rating": 4
+    },
+    {
+      "title": "QED: The Strange Theory of Light and Matter",
+      "author": "Richard P. Feynman",
+      "rating": 4
+    },
+    {
+      "title": "Why Evolution Is True",
+      "author": "Jerry A. Coyne",
+      "rating": 4
+    },
+    {
+      "title": "The Botany of Desire: A Plant's-Eye View of the World",
+      "author": "Michael Pollan",
+      "rating": 4
+    },
+    {
+      "title": "Big Bang: The Origin of the Universe",
+      "author": "Simon Singh",
+      "rating": 4
+    },
+    {
+      "title": "The Tao of Physics: An Exploration of the Parallels between Modern Physics and Eastern Mysticism",
+      "author": "Fritjof Capra",
+      "rating": 3
+    },
+    {
+      "title": "Predictably Irrational: The Hidden Forces That Shape Our Decisions",
+      "author": "Dan Ariely",
+      "rating": 4
+    },
+    {
+      "title": "Zero: The Biography of a Dangerous Idea",
+      "author": "Charles Seife",
+      "rating": 3
+    },
+    {
+      "title": "The Illustrated A Brief History of Time/The Universe in a Nutshell",
+      "author": "Stephen Hawking",
+      "rating": 4
+    },
+    {
+      "title": "The Ascent of Man",
+      "author": "Jacob Bronowski",
+      "rating": 4
+    },
+    {
+      "title": "Man and His Symbols",
+      "author": "C.G. Jung",
+      "rating": 4
+    },
+    {
+      "title": "Origins: Fourteen Billion Years of Cosmic Evolution",
+      "author": "Neil deGrasse Tyson",
+      "rating": 4
+    },
+    {
+      "title": "The Poisoner's Handbook: Murder and the Birth of Forensic Medicine in Jazz Age New York",
+      "author": "Deborah Blum",
+      "rating": 4
+    },
+    {
+      "title": "Parallel Worlds: A Journey through Creation, Higher Dimensions, and the Future of the Cosmos",
+      "author": "Michio Kaku",
+      "rating": 4
+    },
+    {
+      "title": "How to Lie with Statistics",
+      "author": "Darrell Huff",
+      "rating": 3
+    },
+    {
+      "title": "The Beak of the Finch: A Story of Evolution in Our Time",
+      "author": "Jonathan Weiner",
+      "rating": 4
+    },
+    {
+      "title": "Broca's Brain: Reflections on the Romance of Science",
+      "author": "Carl Sagan",
+      "rating": 4
+    },
+    {
+      "title": "The Mismeasure of Man",
+      "author": "Stephen Jay Gould",
+      "rating": 4
+    },
+    {
+      "title": "An Inconvenient Truth: The Planetary Emergency of Global Warming and What We Can Do About It",
+      "author": "Al Gore",
+      "rating": 3
+    },
+    {
+      "title": "Galileo's Daughter: A Historical Memoir of Science, Faith and Love",
+      "author": "Dava Sobel",
+      "rating": 3
+    },
+    {
+      "title": "Packing for Mars: The Curious Science of Life in the Void",
+      "author": "Mary Roach",
+      "rating": 3
+    },
+    {
+      "title": "The Hidden Reality: Parallel Universes and the Deep Laws of the Cosmos",
+      "author": "Brian Greene",
+      "rating": 4
+    },
+    {
+      "title": "The Design of Everyday Things",
+      "author": "Donald A. Norman",
+      "rating": 4
+    },
+    {
+      "title": "Woman: An Intimate Geography",
+      "author": "Natalie Angier",
+      "rating": 4
+    },
+    {
+      "title": "The Pluto Files: The Rise and Fall of America's Favorite Planet",
+      "author": "Neil deGrasse Tyson",
+      "rating": 3
+    },
+    {
+      "title": "The Principia: Mathematical Principles of Natural Philosophy",
+      "author": "Isaac Newton",
+      "rating": 4
+    },
+    {
+      "title": "Ever Since Darwin: Reflections in Natural History",
+      "author": "Stephen Jay Gould",
+      "rating": 4
+    },
+    {
+      "title": "The Gene: An Intimate History",
+      "author": "Siddhartha Mukherjee",
+      "rating": 4
+    },
+    {
+      "title": "The Tell-Tale Brain: A Neuroscientist's Quest for What Makes Us Human",
+      "author": "V.S. Ramachandran",
+      "rating": 4
+    },
+    {
+      "title": "Astrophysics for People in a Hurry",
+      "author": "Neil deGrasse Tyson",
+      "rating": 4
+    },
+    {
+      "title": "The Panda's Thumb: More Reflections in Natural History",
+      "author": "Stephen Jay Gould",
+      "rating": 4
+    },
+    {
+      "title": "The Varieties of Scientific Experience: A Personal View of the Search for God",
+      "author": "Carl Sagan",
+      "rating": 4
+    },
+    {
+      "title": "SuperFreakonomics: Global Cooling, Patriotic Prostitutes And Why Suicide Bombers Should Buy Life Insurance",
+      "author": "Steven D. Levitt",
+      "rating": 4
+    },
+    {
+      "title": "The Naked Ape",
+      "author": "Desmond Morris",
+      "rating": 3
+    },
+    {
+      "title": "Black Holes & Time Warps: Einstein's Outrageous Legacy",
+      "author": "Kip S. Thorne",
+      "rating": 4
+    },
+    {
+      "title": "The Map That Changed the World: William Smith and the Birth of Modern Geology",
+      "author": "Simon Winchester",
+      "rating": 3
+    },
+    {
+      "title": "Unweaving the Rainbow: Science, Delusion and the Appetite for Wonder",
+      "author": "Richard Dawkins",
+      "rating": 4
+    }
+  ],
+  "comedy": [
+    {
+      "title": "The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1)",
+      "author": "Douglas Adams",
+      "rating": 4
+    },
+    {
+      "title": "Me Talk Pretty One Day",
+      "author": "David Sedaris",
+      "rating": 4
+    },
+    {
+      "title": "One for the Money (Stephanie Plum, #1)",
+      "author": "Janet Evanovich",
+      "rating": 4
+    },
+    {
+      "title": "Lamb: The Gospel According to Biff, Christ's Childhood Pal",
+      "author": "Christopher Moore",
+      "rating": 4
+    },
+    {
+      "title": "Good Omens",
+      "author": "Terry Pratchett",
+      "rating": 4
+    },
+    {
+      "title": "My Horizontal Life: A Collection of One-Night Stands",
+      "author": "Chelsea Handler",
+      "rating": 3
+    },
+    {
+      "title": "All My Friends Are Dead",
+      "author": "Jory John",
+      "rating": 4
+    },
+    {
+      "title": "Sh*t My Dad Says",
+      "author": "Justin Halpern",
+      "rating": 3
+    },
+    {
+      "title": "When You Are Engulfed in Flames",
+      "author": "David Sedaris",
+      "rating": 4
+    },
+    {
+      "title": "The Color of Magic (Discworld, #1; Rincewind, #1)",
+      "author": "Terry Pratchett",
+      "rating": 4
+    },
+    {
+      "title": "Are You There, Vodka? It's Me, Chelsea",
+      "author": "Chelsea Handler",
+      "rating": 3
+    },
+    {
+      "title": "City of Bones (The Mortal Instruments, #1)",
+      "author": "Cassandra Clare",
+      "rating": 4
+    },
+    {
+      "title": "Cake Wrecks: When Professional Cakes Go Hilariously Wrong",
+      "author": "Jen Yates",
+      "rating": 3
+    },
+    {
+      "title": "Dress Your Family in Corduroy and Denim",
+      "author": "David Sedaris",
+      "rating": 4
+    },
+    {
+      "title": "A Coupla Shades of Taupe",
+      "author": "Court Burback",
+      "rating": 3
+    },
+    {
+      "title": "I Hope They Serve Beer in Hell (Tucker Max, #1)",
+      "author": "Tucker Max",
+      "rating": 3
+    },
+    {
+      "title": "Right Ho, Jeeves (Jeeves, #6)",
+      "author": "P.G. Wodehouse",
+      "rating": 4
+    },
+    {
+      "title": "The Daily Show with Jon Stewart Presents America (The Audiobook): A Citizen's Guide to Democracy Inaction",
+      "author": "Jon   Stewart",
+      "rating": 4
+    },
+    {
+      "title": "Bridget Jones's Diary",
+      "author": "Helen Fielding",
+      "rating": 3
+    },
+    {
+      "title": "Julie and Julia: 365 Days, 524 Recipes, 1 Tiny Apartment Kitchen",
+      "author": "Julie Powell",
+      "rating": 3
+    },
+    {
+      "title": "The Princess Bride",
+      "author": "William Goldman",
+      "rating": 4
+    },
+    {
+      "title": "Naked",
+      "author": "David Sedaris",
+      "rating": 4
+    },
+    {
+      "title": "Cat's Cradle",
+      "author": "Kurt Vonnegut Jr.",
+      "rating": 4
+    },
+    {
+      "title": "The Westing Game",
+      "author": "Ellen Raskin",
+      "rating": 4
+    },
+    {
+      "title": "Hyperbole and a Half: Unfortunate Situations, Flawed Coping Mechanisms, Mayhem, and Other Things That Happened",
+      "author": "Allie Brosh",
+      "rating": 4
+    },
+    {
+      "title": "Our Dumb Century: The Onion Presents 100 Years of Headlines from America's Finest News Source",
+      "author": "Scott Dikkers",
+      "rating": 4
+    },
+    {
+      "title": "This is Where I Leave You",
+      "author": "Jonathan Tropper",
+      "rating": 3
+    },
+    {
+      "title": "City of Ashes (The Mortal Instruments, #2)",
+      "author": "Cassandra Clare",
+      "rating": 4
+    },
+    {
+      "title": "The Importance of Being Earnest",
+      "author": "Oscar Wilde",
+      "rating": 4
+    },
+    {
+      "title": "Angels & Demons (Robert Langdon, #1)",
+      "author": "Dan Brown",
+      "rating": 3
+    },
+    {
+      "title": "Harry Potter and the Sorcerer's Stone (Harry Potter, #1)",
+      "author": "J.K. Rowling",
+      "rating": 4
+    },
+    {
+      "title": "Spanking Shakespeare",
+      "author": "Jake Wizner",
+      "rating": 3
+    },
+    {
+      "title": "Three hundred & Thirty-Three Twisted Tongue Twisters",
+      "author": "Byron L. Reeder",
+      "rating": 4
+    },
+    {
+      "title": "Julia's Chocolates",
+      "author": "Cathy  Lamb",
+      "rating": 3
+    },
+    {
+      "title": "The Internet is a Playground",
+      "author": "David Thorne",
+      "rating": 3
+    },
+    {
+      "title": "You Really Are Full of Shit, Aren't You?",
+      "author": "Karl Wiggins",
+      "rating": 4
+    },
+    {
+      "title": "Dogshit Saved My Life",
+      "author": "Karl Wiggins",
+      "rating": 4
+    },
+    {
+      "title": "It's Kind of a Funny Story",
+      "author": "Ned Vizzini",
+      "rating": 4
+    },
+    {
+      "title": "Suicide Notes",
+      "author": "Michael Thomas Ford",
+      "rating": 3
+    },
+    {
+      "title": "The Grass Is Always Greener over the Septic Tank",
+      "author": "Erma Bombeck",
+      "rating": 4
+    },
+    {
+      "title": "Winnie-the-Pooh (Winnie-the-Pooh #1)",
+      "author": "A.A. Milne",
+      "rating": 4
+    },
+    {
+      "title": "Harry Potter Series Box Set (Harry Potter, #1-7)",
+      "author": "J.K. Rowling",
+      "rating": 4
+    },
+    {
+      "title": "Clockwork Angel (The Infernal Devices, #1)",
+      "author": "Cassandra Clare",
+      "rating": 4
+    },
+    {
+      "title": "Villa Incognito",
+      "author": "Tom Robbins",
+      "rating": 3
+    },
+    {
+      "title": "Howl\u00e2\u20ac\u2122s Moving Castle (Howl\u00e2\u20ac\u2122s Moving Castle, #1)",
+      "author": "Diana Wynne Jones",
+      "rating": 4
+    },
+    {
+      "title": "The Glass Castle",
+      "author": "Jeannette Walls",
+      "rating": 4
+    },
+    {
+      "title": "New Moon (The Twilight Saga, #2)",
+      "author": "Stephenie Meyer",
+      "rating": 3
+    },
+    {
+      "title": "Eclipse (The Twilight Saga, #3)",
+      "author": "Stephenie Meyer",
+      "rating": 3
+    },
+    {
+      "title": "Surviving Your Stupid Stupid Decision to Go to Grad School",
+      "author": "Adam Ruben",
+      "rating": 3
+    },
+    {
+      "title": "Gil's All Fright Diner",
+      "author": "A. Lee Martinez",
+      "rating": 3
+    },
+    {
+      "title": "Lost In Spain: A Collection Of Humorous Essays",
+      "author": "Scott Oglesby",
+      "rating": 4
+    },
+    {
+      "title": "Women on Top: A Parody of The Handmaid's Tale (The Dud Wimpole Saga Book 1)",
+      "author": "Daniel Silman",
+      "rating": 5
+    },
+    {
+      "title": "Corn for Chickens",
+      "author": "Bernie Morris",
+      "rating": 4
+    },
+    {
+      "title": "I Rant, Therefore I Am",
+      "author": "Dennis Miller",
+      "rating": 3
+    },
+    {
+      "title": "Don't Dump the Dog: Outrageous Stories and Simple Solutions to Your Worst Dog Behavior Problems",
+      "author": "Randy Grim",
+      "rating": 4
+    },
+    {
+      "title": "The Stupidest Angel: A Heartwarming Tale of Christmas Terror (Pine Cove, #3)",
+      "author": "Christopher Moore",
+      "rating": 3
+    },
+    {
+      "title": "Barrel Fever: Stories and Essays",
+      "author": "David Sedaris",
+      "rating": 3
+    },
+    {
+      "title": "My Life and Hard Times",
+      "author": "James Thurber",
+      "rating": 4
+    },
+    {
+      "title": "City of Glass (The Mortal Instruments, #3)",
+      "author": "Cassandra Clare",
+      "rating": 4
+    },
+    {
+      "title": "The Portable Door (J. W. Wells & Co., #1)",
+      "author": "Tom Holt",
+      "rating": 3
+    },
+    {
+      "title": "Things My Girlfriend and I Have Argued About",
+      "author": "Mil Millington",
+      "rating": 3
+    },
+    {
+      "title": "The Year of Living Biblically: One Man's Humble Quest to Follow the Bible as Literally as Possible",
+      "author": "A.J. Jacobs",
+      "rating": 3
+    },
+    {
+      "title": "Native Tongue (Skink #2)",
+      "author": "Carl Hiaasen",
+      "rating": 3
+    },
+    {
+      "title": "How to Cook Everything: Simple Recipes for Great Food",
+      "author": "Mark Bittman",
+      "rating": 3
+    },
+    {
+      "title": "Pnin",
+      "author": "Vladimir Nabokov",
+      "rating": 3
+    },
+    {
+      "title": "Five-Star FLEECING",
+      "author": "Maura Stone",
+      "rating": 4
+    },
+    {
+      "title": "Cringe: Toe Curlingly Embarrassing Teenage Diaries, Love Letters And Bad Poetry",
+      "author": "Sarah  Brown",
+      "rating": 3
+    },
+    {
+      "title": "Slapstick & Superego: Essays, Rants & Scathing Social Commentary",
+      "author": "Tom Waters",
+      "rating": 3
+    },
+    {
+      "title": "Don't Shoot, It's Only Me",
+      "author": "Bob Hope",
+      "rating": 3
+    },
+    {
+      "title": "Beast Behaving Badly (Pride, #5)",
+      "author": "Shelly Laurenston",
+      "rating": 4
+    },
+    {
+      "title": "Life of the Party: A Political Press Tart Bares All",
+      "author": "Lisa Baron",
+      "rating": 3
+    },
+    {
+      "title": "Naked Pictures of Famous People",
+      "author": "Jon   Stewart",
+      "rating": 3
+    },
+    {
+      "title": "Let's Get Lade",
+      "author": "Thomas Amo",
+      "rating": 4
+    },
+    {
+      "title": "Boob Action (Boob Explosion, #2)",
+      "author": "Charles Chiyangwa",
+      "rating": 4
+    },
+    {
+      "title": "Little Leaves That Never Appeared in The New Yorker",
+      "author": "Henry F. Mazel",
+      "rating": 5
+    },
+    {
+      "title": "Don't Worry About It",
+      "author": "Thomas Maul",
+      "rating": 4
+    },
+    {
+      "title": "Travel To the G-Spot -- The Guide Book",
+      "author": "Steve  Cohen",
+      "rating": 3
+    },
+    {
+      "title": "The United States of Air",
+      "author": "J.M. Porup",
+      "rating": 3
+    },
+    {
+      "title": "This is a Book",
+      "author": "Demetri Martin",
+      "rating": 3
+    },
+    {
+      "title": "Bad Amateur Ebook Writer Romance Story",
+      "author": "Ivana Murleau",
+      "rating": 3
+    },
+    {
+      "title": "The Tenth Life of Mr. Whiskers",
+      "author": "R.A. Gates",
+      "rating": 3
+    },
+    {
+      "title": "Not Taco Bell Material",
+      "author": "Adam Carolla",
+      "rating": 3
+    },
+    {
+      "title": "Cracks in the Foundation",
+      "author": "Erica Ferencik",
+      "rating": 3
+    },
+    {
+      "title": "Be More Chill",
+      "author": "Ned Vizzini",
+      "rating": 3
+    },
+    {
+      "title": "Greetings Earthlings, My name is Appleton and I come from the Planet Reginta",
+      "author": "J. Jack Bergeron",
+      "rating": 3
+    },
+    {
+      "title": "White Girl Problems",
+      "author": "Babe Walker",
+      "rating": 3
+    },
+    {
+      "title": "Tales From Little Lump - Alien Season",
+      "author": "Jeff Folschinsky",
+      "rating": 3
+    },
+    {
+      "title": "The Horse is Dead",
+      "author": "Robert Klane",
+      "rating": 4
+    },
+    {
+      "title": "Wife Maintenance Quarterly",
+      "author": "Michael Pugh",
+      "rating": 3
+    },
+    {
+      "title": "Are We Normal? Funny True Stories from an Everyday Family",
+      "author": "Christina Scalise",
+      "rating": 4
+    },
+    {
+      "title": "Zeus Is Dead: A Monstrously Inconvenient Adventure (Zeus Is Dead, #1)",
+      "author": "Michael G. Munz",
+      "rating": 3
+    },
+    {
+      "title": "Offensive As Hell: The Joys of Jesus Freak Bagging",
+      "author": "Leslie Fish",
+      "rating": 4
+    },
+    {
+      "title": "I'll Drink To Divorce (Larry's Journal, #1)",
+      "author": "L.J. Dickles",
+      "rating": 5
+    },
+    {
+      "title": "It's Not My Fault: Self-Discovery & Admission",
+      "author": "Wendi Bear",
+      "rating": 4
+    },
+    {
+      "title": "Rancid Tales: My Years in the Food Processing Industry",
+      "author": "Den Warren",
+      "rating": 3
+    },
+    {
+      "title": "Mussolini: His Part In My Downfall  (War Memoirs, #4)",
+      "author": "Spike Milligan",
+      "rating": 4
+    },
+    {
+      "title": "Lost Journal Vol. 1: Confessions of a Failed Paperboy",
+      "author": "Tim Mollen",
+      "rating": 4
+    },
+    {
+      "title": "Step One: Killing Hitler",
+      "author": "William Dean Hamilton",
+      "rating": 3
+    },
+    {
+      "title": "Furiously Happy: A Funny Book About Horrible Things",
+      "author": "Jenny  Lawson",
+      "rating": 3
+    },
+    {
+      "title": "Small Town Ho: The Hilarious Story of Moving from the Big City to North Idaho",
+      "author": "Duke Diercks",
+      "rating": 3
+    }
+  ],
+  "Horror": [
+    {
+      "title": "The Shining (The Shining, #1)",
+      "author": "Stephen King",
+      "rating": 4
+    },
+    {
+      "title": "It",
+      "author": "Stephen King",
+      "rating": 4
+    },
+    {
+      "title": "'Salem's Lot",
+      "author": "Stephen King",
+      "rating": 4
+    },
+    {
+      "title": "Dracula",
+      "author": "Bram Stoker",
+      "rating": 4
+    },
+    {
+      "title": "Pet Sematary",
+      "author": "Stephen King",
+      "rating": 4
+    },
+    {
+      "title": "Misery",
+      "author": "Stephen King",
+      "rating": 4
+    },
+    {
+      "title": "The Exorcist",
+      "author": "William Peter Blatty",
+      "rating": 4
+    },
+    {
+      "title": "The Haunting of Hill House",
+      "author": "Shirley Jackson",
+      "rating": 3
+    },
+    {
+      "title": "Carrie",
+      "author": "Stephen King",
+      "rating": 3
+    },
+    {
+      "title": "The Silence of the Lambs  (Hannibal Lecter, #2)",
+      "author": "Thomas  Harris",
+      "rating": 4
+    },
+    {
+      "title": "Frankenstein",
+      "author": "Mary Wollstonecraft Shelley",
+      "rating": 3
+    },
+    {
+      "title": "Interview with the Vampire (The Vampire Chronicles, #1)",
+      "author": "Anne Rice",
+      "rating": 4
+    },
+    {
+      "title": "Rosemary's Baby (Rosemary's Baby, #1)",
+      "author": "Ira Levin",
+      "rating": 4
+    },
+    {
+      "title": "Ghost Story",
+      "author": "Peter Straub",
+      "rating": 3
+    },
+    {
+      "title": "Heart-Shaped Box",
+      "author": "Joe Hill",
+      "rating": 3
+    },
+    {
+      "title": "House of Leaves",
+      "author": "Mark Z. Danielewski",
+      "rating": 4
+    },
+    {
+      "title": "Red Dragon (Hannibal Lecter, #1)",
+      "author": "Thomas  Harris",
+      "rating": 4
+    },
+    {
+      "title": "World War Z: An Oral History of the Zombie War",
+      "author": "Max Brooks",
+      "rating": 4
+    },
+    {
+      "title": "The Picture of Dorian Gray",
+      "author": "Oscar Wilde",
+      "rating": 4
+    },
+    {
+      "title": "Needful Things",
+      "author": "Stephen King",
+      "rating": 3
+    },
+    {
+      "title": "Swan Song",
+      "author": "Robert McCammon",
+      "rating": 4
+    },
+    {
+      "title": "The Stand",
+      "author": "Stephen King",
+      "rating": 4
+    },
+    {
+      "title": "Something Wicked This Way Comes (Green Town, #2)",
+      "author": "Ray Bradbury",
+      "rating": 3
+    },
+    {
+      "title": "The Green Mile",
+      "author": "Stephen King",
+      "rating": 4
+    },
+    {
+      "title": "The Amityville Horror",
+      "author": "Jay Anson",
+      "rating": 3
+    },
+    {
+      "title": "American Psycho",
+      "author": "Bret Easton Ellis",
+      "rating": 3
+    },
+    {
+      "title": "Cujo",
+      "author": "Stephen King",
+      "rating": 3
+    },
+    {
+      "title": "Dr. Jekyll and Mr. Hyde",
+      "author": "Robert Louis Stevenson",
+      "rating": 3
+    },
+    {
+      "title": "Let the Right One In",
+      "author": "John Ajvide Lindqvist",
+      "rating": 4
+    },
+    {
+      "title": "We Have Always Lived in the Castle",
+      "author": "Shirley Jackson",
+      "rating": 3
+    },
+    {
+      "title": "Christine",
+      "author": "Stephen King",
+      "rating": 3
+    },
+    {
+      "title": "Watchers",
+      "author": "Dean Koontz",
+      "rating": 4
+    },
+    {
+      "title": "Hell House",
+      "author": "Richard Matheson",
+      "rating": 3
+    },
+    {
+      "title": "Jaws (Jaws, #1)",
+      "author": "Peter Benchley",
+      "rating": 3
+    },
+    {
+      "title": "Desperation",
+      "author": "Stephen King",
+      "rating": 3
+    },
+    {
+      "title": "The Vampire Lestat (The Vampire Chronicles, #2)",
+      "author": "Anne Rice",
+      "rating": 4
+    },
+    {
+      "title": "The Long Walk",
+      "author": "Richard Bachman",
+      "rating": 4
+    },
+    {
+      "title": "The Dead Zone",
+      "author": "Stephen King",
+      "rating": 3
+    },
+    {
+      "title": "The Talisman (The Talisman, #1)",
+      "author": "Stephen King",
+      "rating": 4
+    },
+    {
+      "title": "Psycho (Psycho, #1)",
+      "author": "Robert Bloch",
+      "rating": 4
+    },
+    {
+      "title": "The Terror",
+      "author": "Dan Simmons",
+      "rating": 4
+    },
+    {
+      "title": "Horns",
+      "author": "Joe Hill",
+      "rating": 3
+    },
+    {
+      "title": "The Witching Hour (Lives of the Mayfair Witches, #1)",
+      "author": "Anne Rice",
+      "rating": 4
+    },
+    {
+      "title": "Bag of Bones",
+      "author": "Stephen King",
+      "rating": 3
+    },
+    {
+      "title": "Flowers in the Attic (Dollanganger, #1)",
+      "author": "V.C. Andrews",
+      "rating": 3
+    },
+    {
+      "title": "The Ruins",
+      "author": "Scott        Smith",
+      "rating": 3
+    },
+    {
+      "title": "Rebecca",
+      "author": "Daphne du Maurier",
+      "rating": 4
+    },
+    {
+      "title": "The Turn of the Screw",
+      "author": "Henry James",
+      "rating": 3
+    },
+    {
+      "title": "Coraline",
+      "author": "Neil Gaiman",
+      "rating": 4
+    },
+    {
+      "title": "The Tommyknockers",
+      "author": "Stephen King",
+      "rating": 3
+    },
+    {
+      "title": "The Passage (The Passage, #1)",
+      "author": "Justin Cronin",
+      "rating": 4
+    },
+    {
+      "title": "The Strain (The Strain Trilogy, #1)",
+      "author": "Guillermo del Toro",
+      "rating": 3
+    },
+    {
+      "title": "Gerald's Game",
+      "author": "Stephen King",
+      "rating": 3
+    },
+    {
+      "title": "The Phantom of the Opera",
+      "author": "Gaston Leroux",
+      "rating": 3
+    },
+    {
+      "title": "Cell",
+      "author": "Stephen King",
+      "rating": 3
+    },
+    {
+      "title": "The Island of Dr. Moreau",
+      "author": "H.G. Wells",
+      "rating": 3
+    },
+    {
+      "title": "The Girl Next Door",
+      "author": "Jack Ketchum",
+      "rating": 3
+    },
+    {
+      "title": "Phantoms",
+      "author": "Dean Koontz",
+      "rating": 3
+    },
+    {
+      "title": "The Dark Half",
+      "author": "Stephen King",
+      "rating": 3
+    },
+    {
+      "title": "I Am Legend",
+      "author": "Richard Matheson",
+      "rating": 4
+    },
+    {
+      "title": "The Queen of the Damned (The Vampire Chronicles, #3)",
+      "author": "Anne Rice",
+      "rating": 3
+    },
+    {
+      "title": "NOS4A2",
+      "author": "Joe Hill",
+      "rating": 4
+    },
+    {
+      "title": "Hannibal (Hannibal Lecter, #3)",
+      "author": "Thomas  Harris",
+      "rating": 3
+    },
+    {
+      "title": "The Omen",
+      "author": "David Seltzer",
+      "rating": 4
+    },
+    {
+      "title": "Haunted",
+      "author": "Chuck Palahniuk",
+      "rating": 3
+    },
+    {
+      "title": "The Stepford Wives",
+      "author": "Ira Levin",
+      "rating": 3
+    },
+    {
+      "title": "Summer of Night (Seasons of Horror, #1)",
+      "author": "Dan Simmons",
+      "rating": 4
+    },
+    {
+      "title": "The Road",
+      "author": "Cormac McCarthy",
+      "rating": 3
+    },
+    {
+      "title": "Duma Key",
+      "author": "Stephen King",
+      "rating": 3
+    },
+    {
+      "title": "Thinner",
+      "author": "Richard Bachman",
+      "rating": 3
+    },
+    {
+      "title": "The Other",
+      "author": "Thomas Tryon",
+      "rating": 3
+    },
+    {
+      "title": "Carrion Comfort",
+      "author": "Dan Simmons",
+      "rating": 3
+    },
+    {
+      "title": "The Day of the Triffids",
+      "author": "John Wyndham",
+      "rating": 4
+    },
+    {
+      "title": "Doctor Sleep (The Shining, #2)",
+      "author": "Stephen King",
+      "rating": 4
+    },
+    {
+      "title": "The Woman in Black",
+      "author": "Susan         Hill",
+      "rating": 3
+    },
+    {
+      "title": "Lost Souls",
+      "author": "Poppy Z. Brite",
+      "rating": 3
+    },
+    {
+      "title": "The Girl Who Loved Tom Gordon",
+      "author": "Stephen King",
+      "rating": 3
+    },
+    {
+      "title": "Shadowland",
+      "author": "Peter Straub",
+      "rating": 3
+    },
+    {
+      "title": "The Drawing of the Three (The Dark Tower, #2)",
+      "author": "Stephen King",
+      "rating": 4
+    },
+    {
+      "title": "The Keep (Adversary Cycle, #1)",
+      "author": "F. Paul Wilson",
+      "rating": 4
+    },
+    {
+      "title": "Lord of the Flies",
+      "author": "William Golding",
+      "rating": 3
+    },
+    {
+      "title": "Relic (Pendergast, #1)",
+      "author": "Douglas Preston",
+      "rating": 4
+    },
+    {
+      "title": "The Great and Secret Show (Book of the Art #1)",
+      "author": "Clive Barker",
+      "rating": 4
+    },
+    {
+      "title": "The Waste Lands (The Dark Tower, #3)",
+      "author": "Stephen King",
+      "rating": 4
+    },
+    {
+      "title": "Black House (The Talisman, #2)",
+      "author": "Stephen King",
+      "rating": 4
+    },
+    {
+      "title": "Weaveworld",
+      "author": "Clive Barker",
+      "rating": 4
+    },
+    {
+      "title": "The Cellar",
+      "author": "Richard Laymon",
+      "rating": 3
+    },
+    {
+      "title": "Jurassic Park (Jurassic Park, #1)",
+      "author": "Michael Crichton",
+      "rating": 4
+    },
+    {
+      "title": "Odd Thomas (Odd Thomas, #1)",
+      "author": "Dean Koontz",
+      "rating": 3
+    },
+    {
+      "title": "The House Next Door",
+      "author": "Anne Rivers Siddons",
+      "rating": 3
+    },
+    {
+      "title": "Bird Box (Bird Box, #1)",
+      "author": "Josh Malerman",
+      "rating": 4
+    },
+    {
+      "title": "The Damnation Game",
+      "author": "Clive Barker",
+      "rating": 3
+    },
+    {
+      "title": "Harvest Home",
+      "author": "Thomas Tryon",
+      "rating": 3
+    },
+    {
+      "title": "The Bad Place",
+      "author": "Dean Koontz",
+      "rating": 3
+    },
+    {
+      "title": "Song of Kali",
+      "author": "Dan Simmons",
+      "rating": 3
+    },
+    {
+      "title": "Cabal",
+      "author": "Clive Barker",
+      "rating": 3
+    },
+    {
+      "title": "They Thirst",
+      "author": "Robert McCammon",
+      "rating": 3
+    },
+    {
+      "title": "The Rats (Rats, #1)",
+      "author": "James Herbert",
+      "rating": 3
+    },
+    {
+      "title": "The Traveling Vampire Show",
+      "author": "Richard Laymon",
+      "rating": 3
+    },
+    {
+      "title": "'Salem's Lot",
+      "author": "Stephen King",
+      "rating": 4
+    }
+  ],
+  "Magical Realism": [
+    {
+      "title": "One Hundred Years of Solitude",
+      "author": "Gabriel Garc\u00c3\u00ada M\u00c3\u00a1rquez",
+      "rating": 4
+    },
+    {
+      "title": "The Time Traveler's Wife",
+      "author": "Audrey Niffenegger",
+      "rating": 3
+    },
+    {
+      "title": "The House of the Spirits",
+      "author": "Isabel Allende",
+      "rating": 4
+    },
+    {
+      "title": "Like Water for Chocolate",
+      "author": "Laura Esquivel",
+      "rating": 3
+    },
+    {
+      "title": "Love in the Time of Cholera",
+      "author": "Gabriel Garc\u00c3\u00ada M\u00c3\u00a1rquez",
+      "rating": 3
+    },
+    {
+      "title": "Garden Spells (Waverley Family, #1)",
+      "author": "Sarah Addison Allen",
+      "rating": 4
+    },
+    {
+      "title": "The Master and Margarita",
+      "author": "Mikhail Bulgakov",
+      "rating": 4
+    },
+    {
+      "title": "Kafka on the Shore",
+      "author": "Haruki Murakami",
+      "rating": 4
+    },
+    {
+      "title": "The Wind-Up Bird Chronicle",
+      "author": "Haruki Murakami",
+      "rating": 4
+    },
+    {
+      "title": "The Night Circus",
+      "author": "Erin Morgenstern",
+      "rating": 4
+    },
+    {
+      "title": "Practical Magic (Practical Magic, #1)",
+      "author": "Alice Hoffman",
+      "rating": 3
+    },
+    {
+      "title": "Chocolat (Chocolat, #1)",
+      "author": "Joanne Harris",
+      "rating": 3
+    },
+    {
+      "title": "The Sugar Queen",
+      "author": "Sarah Addison Allen",
+      "rating": 3
+    },
+    {
+      "title": "Midnight's Children",
+      "author": "Salman Rushdie",
+      "rating": 3
+    },
+    {
+      "title": "Beloved",
+      "author": "Toni Morrison",
+      "rating": 3
+    },
+    {
+      "title": "The Girl Who Chased the Moon",
+      "author": "Sarah Addison Allen",
+      "rating": 3
+    },
+    {
+      "title": "Ficciones",
+      "author": "Jorge Luis Borges",
+      "rating": 4
+    },
+    {
+      "title": "Daughter of Fortune",
+      "author": "Isabel Allende",
+      "rating": 3
+    },
+    {
+      "title": "The Peach Keeper",
+      "author": "Sarah Addison Allen",
+      "rating": 3
+    },
+    {
+      "title": "Life of Pi",
+      "author": "Yann Martel",
+      "rating": 3
+    },
+    {
+      "title": "The Satanic Verses",
+      "author": "Salman Rushdie",
+      "rating": 3
+    },
+    {
+      "title": "Everything is Illuminated",
+      "author": "Jonathan Safran Foer",
+      "rating": 3
+    },
+    {
+      "title": "Houdini Heart",
+      "author": "Ki Longfellow",
+      "rating": 3
+    },
+    {
+      "title": "Hard-Boiled Wonderland and the End of the World",
+      "author": "Haruki Murakami",
+      "rating": 4
+    },
+    {
+      "title": "Eva Luna",
+      "author": "Isabel Allende",
+      "rating": 3
+    },
+    {
+      "title": "A Story of Yesterday",
+      "author": "Sergio Cobo",
+      "rating": 4
+    },
+    {
+      "title": "Invisible Cities",
+      "author": "Italo Calvino",
+      "rating": 4
+    },
+    {
+      "title": "Winter's Tale",
+      "author": "Mark Helprin",
+      "rating": 3
+    },
+    {
+      "title": "Song of Solomon",
+      "author": "Toni Morrison",
+      "rating": 4
+    },
+    {
+      "title": "The Golem and the Jinni (The Golem and the Jinni, #1)",
+      "author": "Helene Wecker",
+      "rating": 4
+    },
+    {
+      "title": "The Brief Wondrous Life of Oscar Wao",
+      "author": "Junot D\u00c3\u00adaz",
+      "rating": 3
+    },
+    {
+      "title": "Jitterbug Perfume",
+      "author": "Tom Robbins",
+      "rating": 4
+    },
+    {
+      "title": "American Gods (American Gods, #1)",
+      "author": "Neil Gaiman",
+      "rating": 4
+    },
+    {
+      "title": "If on a Winter's Night a Traveler",
+      "author": "Italo Calvino",
+      "rating": 4
+    },
+    {
+      "title": "1Q84 (1Q84, #1-3)",
+      "author": "Haruki Murakami",
+      "rating": 3
+    },
+    {
+      "title": "The Metamorphosis",
+      "author": "Franz Kafka",
+      "rating": 3
+    },
+    {
+      "title": "The Passion",
+      "author": "Jeanette Winterson",
+      "rating": 4
+    },
+    {
+      "title": "Little, Big",
+      "author": "John Crowley",
+      "rating": 3
+    },
+    {
+      "title": "The Particular Sadness of Lemon Cake",
+      "author": "Aimee Bender",
+      "rating": 3
+    },
+    {
+      "title": "The Ocean at the End of the Lane",
+      "author": "Neil Gaiman",
+      "rating": 4
+    },
+    {
+      "title": "The Snow Child",
+      "author": "Eowyn Ivey",
+      "rating": 3
+    },
+    {
+      "title": "Pedro P\u00c3\u00a1ramo",
+      "author": "Juan Rulfo",
+      "rating": 4
+    },
+    {
+      "title": "Chronicle of a Death Foretold",
+      "author": "Gabriel Garc\u00c3\u00ada M\u00c3\u00a1rquez",
+      "rating": 3
+    },
+    {
+      "title": "The Strange and Beautiful Sorrows of Ava Lavender",
+      "author": "Leslye Walton",
+      "rating": 4
+    },
+    {
+      "title": "Bless Me, Ultima",
+      "author": "Rudolfo Anaya",
+      "rating": 3
+    },
+    {
+      "title": "Even Cowgirls Get the Blues",
+      "author": "Tom Robbins",
+      "rating": 3
+    },
+    {
+      "title": "Of Love and Other Demons",
+      "author": "Gabriel Garc\u00c3\u00ada M\u00c3\u00a1rquez",
+      "rating": 3
+    },
+    {
+      "title": "The Tin Drum",
+      "author": "G\u00c3\u00bcnter Grass",
+      "rating": 3
+    },
+    {
+      "title": "The Lovely Bones",
+      "author": "Alice Sebold",
+      "rating": 3
+    },
+    {
+      "title": "The Angel's Game (The Cemetery of Forgotten Books, #2)",
+      "author": "Carlos Ruiz Zaf\u00c3\u00b3n",
+      "rating": 3
+    },
+    {
+      "title": "The Graveyard Book",
+      "author": "Neil Gaiman",
+      "rating": 4
+    },
+    {
+      "title": "The Book Thief",
+      "author": "Markus Zusak",
+      "rating": 4
+    },
+    {
+      "title": "Blackbird House",
+      "author": "Alice Hoffman",
+      "rating": 3
+    },
+    {
+      "title": "Of Love and Shadows",
+      "author": "Isabel Allende",
+      "rating": 3
+    },
+    {
+      "title": "The Hummingbird's Daughter",
+      "author": "Luis Alberto Urrea",
+      "rating": 4
+    },
+    {
+      "title": "The Milagro Beanfield War",
+      "author": "John     Nichols",
+      "rating": 4
+    },
+    {
+      "title": "Wise Children",
+      "author": "Angela Carter",
+      "rating": 3
+    },
+    {
+      "title": "The Onion Girl (Newford, #8)",
+      "author": "Charles de Lint",
+      "rating": 4
+    },
+    {
+      "title": "Life After Life (Todd Family, #1)",
+      "author": "Kate Atkinson",
+      "rating": 3
+    },
+    {
+      "title": "Big Fish",
+      "author": "Daniel Wallace",
+      "rating": 3
+    },
+    {
+      "title": "Mr. Penumbra's 24-Hour Bookstore (Mr. Penumbra's 24-Hour Bookstore, #1)",
+      "author": "Robin Sloan",
+      "rating": 3
+    },
+    {
+      "title": "The Ice Queen",
+      "author": "Alice Hoffman",
+      "rating": 3
+    },
+    {
+      "title": "The River King",
+      "author": "Alice Hoffman",
+      "rating": 3
+    },
+    {
+      "title": "Dona Flor and Her Two Husbands",
+      "author": "Jorge Amado",
+      "rating": 4
+    },
+    {
+      "title": "The Shadow of the Wind (The Cemetery of Forgotten Books, #1)",
+      "author": "Carlos Ruiz Zaf\u00c3\u00b3n",
+      "rating": 4
+    },
+    {
+      "title": "Memories of My Melancholy Whores",
+      "author": "Gabriel Garc\u00c3\u00ada M\u00c3\u00a1rquez",
+      "rating": 3
+    },
+    {
+      "title": "Hopscotch",
+      "author": "Julio Cort\u00c3\u00a1zar",
+      "rating": 4
+    },
+    {
+      "title": "Steppenwolf",
+      "author": "Hermann Hesse",
+      "rating": 4
+    },
+    {
+      "title": "A Wild Sheep Chase (The Rat, #3)",
+      "author": "Haruki Murakami",
+      "rating": 3
+    },
+    {
+      "title": "The Tiger's Wife",
+      "author": "T\u00c3\u00a9a Obreht",
+      "rating": 3
+    },
+    {
+      "title": "Shoeless Joe",
+      "author": "W.P. Kinsella",
+      "rating": 3
+    },
+    {
+      "title": "The Mistress of Spices",
+      "author": "Chitra Banerjee Divakaruni",
+      "rating": 3
+    },
+    {
+      "title": "Swamplandia!",
+      "author": "Karen Russell",
+      "rating": 3
+    },
+    {
+      "title": "Nights at the Circus",
+      "author": "Angela Carter",
+      "rating": 3
+    },
+    {
+      "title": "Dictionary of the Khazars",
+      "author": "Milorad Pavi\u00c4\u2021",
+      "rating": 4
+    },
+    {
+      "title": "The Magic Toyshop",
+      "author": "Angela Carter",
+      "rating": 3
+    },
+    {
+      "title": "Of Bees and Mist",
+      "author": "Erick Setiawan",
+      "rating": 3
+    },
+    {
+      "title": "All The Names",
+      "author": "Jos\u00c3\u00a9 Saramago",
+      "rating": 3
+    },
+    {
+      "title": "Dangerous Angels (Weetzie Bat, #1-5)",
+      "author": "Francesca Lia Block",
+      "rating": 4
+    },
+    {
+      "title": "Mama Day",
+      "author": "Gloria Naylor",
+      "rating": 4
+    },
+    {
+      "title": "Miss Peregrine's Home for Peculiar Children (Miss Peregrine's Peculiar Children, #1)",
+      "author": "Ransom Riggs",
+      "rating": 3
+    },
+    {
+      "title": "The Temple of My Familiar",
+      "author": "Alice Walker",
+      "rating": 4
+    },
+    {
+      "title": "Shalimar the Clown",
+      "author": "Salman Rushdie",
+      "rating": 3
+    },
+    {
+      "title": "Dance Dance Dance (The Rat, #4)",
+      "author": "Haruki Murakami",
+      "rating": 4
+    },
+    {
+      "title": "The Lace Reader",
+      "author": "Brunonia Barry",
+      "rating": 3
+    },
+    {
+      "title": "The Light of Eternal Spring",
+      "author": "Angel Di Zhang",
+      "rating": 4
+    },
+    {
+      "title": "The Probable Future",
+      "author": "Alice Hoffman",
+      "rating": 3
+    },
+    {
+      "title": "Franz Kafka's The Castle",
+      "author": "David Fishelson",
+      "rating": 4
+    },
+    {
+      "title": "A Tale for the Time Being",
+      "author": "Ruth Ozeki",
+      "rating": 4
+    },
+    {
+      "title": "Someplace to Be Flying (Newford, #5)",
+      "author": "Charles de Lint",
+      "rating": 4
+    },
+    {
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "rating": 3
+    },
+    {
+      "title": "The Stories of Eva Luna",
+      "author": "Isabel Allende",
+      "rating": 3
+    },
+    {
+      "title": "A Prayer for Owen Meany",
+      "author": "John Irving",
+      "rating": 4
+    },
+    {
+      "title": "Blow-Up and Other Stories",
+      "author": "Julio Cort\u00c3\u00a1zar",
+      "rating": 4
+    },
+    {
+      "title": "Cronopios and Famas",
+      "author": "Julio Cort\u00c3\u00a1zar",
+      "rating": 4
+    },
+    {
+      "title": "Here on Earth",
+      "author": "Alice Hoffman",
+      "rating": 3
+    },
+    {
+      "title": "The Enchantress of Florence",
+      "author": "Salman Rushdie",
+      "rating": 3
+    },
+    {
+      "title": "Jonathan Strange & Mr Norrell",
+      "author": "Susanna Clarke",
+      "rating": 3
+    },
+    {
+      "title": "House of Leaves",
+      "author": "Mark Z. Danielewski",
+      "rating": 4
+    },
+    {
+      "title": "A Trip to the Stars",
+      "author": "Nicholas Christopher",
+      "rating": 4
+    }
+  ],
+  "Philosophy": [
+    {
+      "title": "Thus Spoke Zarathustra",
+      "author": "Friedrich Nietzsche",
+      "rating": 4
+    },
+    {
+      "title": "The Republic",
+      "author": "Plato",
+      "rating": 3
+    },
+    {
+      "title": "Critique of Pure Reason",
+      "author": "Paul Guyer",
+      "rating": 3
+    },
+    {
+      "title": "Meditations",
+      "author": "Marcus Aurelius",
+      "rating": 4
+    },
+    {
+      "title": "Being and Time",
+      "author": "Martin Heidegger",
+      "rating": 4
+    },
+    {
+      "title": "The Stranger",
+      "author": "Albert Camus",
+      "rating": 4
+    },
+    {
+      "title": "Tao Te Ching",
+      "author": "Lao Tzu",
+      "rating": 4
+    },
+    {
+      "title": "Siddhartha",
+      "author": "Hermann Hesse",
+      "rating": 4
+    },
+    {
+      "title": "Apology",
+      "author": "Plato",
+      "rating": 4
+    },
+    {
+      "title": "Phenomenology of Spirit",
+      "author": "Georg Wilhelm Friedrich Hegel",
+      "rating": 3
+    },
+    {
+      "title": "The Prince",
+      "author": "Niccol\u00ef\u00bf\u00bd Machiavelli",
+      "rating": 3
+    },
+    {
+      "title": "Candide",
+      "author": "Voltaire",
+      "rating": 3
+    },
+    {
+      "title": "The Brothers Karamazov",
+      "author": "Fyodor Dostoevsky",
+      "rating": 4
+    },
+    {
+      "title": "The Nicomachean Ethics",
+      "author": "Aristotle",
+      "rating": 3
+    },
+    {
+      "title": "An Enquiry Concerning Human Understanding",
+      "author": "David Hume",
+      "rating": 3
+    },
+    {
+      "title": "Fear and Trembling",
+      "author": "S\u00ef\u00bf\u00bdren Kierkegaard",
+      "rating": 4
+    },
+    {
+      "title": "The Symposium",
+      "author": "Plato",
+      "rating": 4
+    },
+    {
+      "title": "The Myth of Sisyphus and Other Essays",
+      "author": "Albert Camus",
+      "rating": 4
+    },
+    {
+      "title": "Philosophical Investigations",
+      "author": "Ludwig Wittgenstein",
+      "rating": 4
+    },
+    {
+      "title": "Ethics",
+      "author": "Baruch Spinoza",
+      "rating": 4
+    },
+    {
+      "title": "Discourse on Method and Meditations on First Philosophy",
+      "author": "Donald A. Cress",
+      "rating": 3
+    },
+    {
+      "title": "Das Kapital",
+      "author": "Karl Marx",
+      "rating": 3
+    },
+    {
+      "title": "Beyond Good and Evil",
+      "author": "Friedrich Nietzsche",
+      "rating": 4
+    },
+    {
+      "title": "Metaphysics",
+      "author": "Aristotle",
+      "rating": 4
+    },
+    {
+      "title": "Tractatus Logico-Philosophicus",
+      "author": "Ludwig Wittgenstein",
+      "rating": 4
+    },
+    {
+      "title": "Being and Nothingness",
+      "author": "Jean-Paul Sartre",
+      "rating": 3
+    },
+    {
+      "title": "The Art of War",
+      "author": "Sun Tzu",
+      "rating": 3
+    },
+    {
+      "title": "A History of Western Philosophy",
+      "author": "Bertrand Russell",
+      "rating": 4
+    },
+    {
+      "title": "The Origin of Species",
+      "author": "Charles Darwin",
+      "rating": 4
+    },
+    {
+      "title": "Poetics",
+      "author": "Malcolm Heath",
+      "rating": 3
+    },
+    {
+      "title": "On the Genealogy of Morals / Ecce Homo",
+      "author": "Friedrich Nietzsche",
+      "rating": 4
+    },
+    {
+      "title": "Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values (Phaedrus, #1)",
+      "author": "Robert M. Pirsig",
+      "rating": 3
+    },
+    {
+      "title": "The Plague",
+      "author": "Albert Camus",
+      "rating": 4
+    },
+    {
+      "title": "Confessions",
+      "author": "Augustine of Hippo",
+      "rating": 3
+    },
+    {
+      "title": "A Treatise of Human Nature",
+      "author": "David Hume",
+      "rating": 3
+    },
+    {
+      "title": "Phenomenology of Perception (Routledge Classics) (Volume 85)",
+      "author": "Maurice Merleau-Ponty",
+      "rating": 4
+    },
+    {
+      "title": "Human, All Too Human: A Book for Free Spirits",
+      "author": "Friedrich Nietzsche",
+      "rating": 4
+    },
+    {
+      "title": "Letters from a Stoic",
+      "author": "Seneca",
+      "rating": 4
+    },
+    {
+      "title": "Nausea",
+      "author": "Jean-Paul Sartre",
+      "rating": 3
+    },
+    {
+      "title": "Plato: Complete Works",
+      "author": "Plato",
+      "rating": 4
+    },
+    {
+      "title": "The Second Sex",
+      "author": "Simone de Beauvoir",
+      "rating": 4
+    },
+    {
+      "title": "An Essay Concerning Human Understanding",
+      "author": "John Locke",
+      "rating": 3
+    },
+    {
+      "title": "Civilization and Its Discontents",
+      "author": "Sigmund Freud",
+      "rating": 3
+    },
+    {
+      "title": "Leviathan",
+      "author": "Thomas Hobbes",
+      "rating": 3
+    },
+    {
+      "title": "Either/Or: A Fragment of Life",
+      "author": "S\u00ef\u00bf\u00bdren Kierkegaard",
+      "rating": 4
+    },
+    {
+      "title": "Essays and Lectures",
+      "author": "Ralph Waldo Emerson",
+      "rating": 4
+    },
+    {
+      "title": "On the Genealogy of Morality",
+      "author": "Friedrich Nietzsche",
+      "rating": 4
+    },
+    {
+      "title": "On Liberty / Utilitarianism",
+      "author": "John Stuart Mill",
+      "rating": 3
+    },
+    {
+      "title": "The Order of Things: An Archaeology of the Human Sciences",
+      "author": "Michel Foucault",
+      "rating": 4
+    },
+    {
+      "title": "Of Grammatology",
+      "author": "Jacques Derrida",
+      "rating": 3
+    },
+    {
+      "title": "Anti-Oedipus: Capitalism and Schizophrenia",
+      "author": "Gilles Deleuze",
+      "rating": 4
+    },
+    {
+      "title": "The Gay Science",
+      "author": "Walter Kaufmann",
+      "rating": 4
+    },
+    {
+      "title": "Groundwork of the Metaphysics of Morals",
+      "author": "Christine M. Korsgaard",
+      "rating": 3
+    },
+    {
+      "title": "The Varieties of Religious Experience",
+      "author": "William  James",
+      "rating": 4
+    },
+    {
+      "title": "Sophie's World",
+      "author": "Jostein Gaarder",
+      "rating": 3
+    },
+    {
+      "title": "Pens\u00ef\u00bf\u00bdes",
+      "author": "Blaise Pascal",
+      "rating": 3
+    },
+    {
+      "title": "On Liberty",
+      "author": "John Stuart Mill",
+      "rating": 3
+    },
+    {
+      "title": "The Consolation of Philosophy",
+      "author": "Boethius",
+      "rating": 4
+    },
+    {
+      "title": "Summa Theologica",
+      "author": "Thomas Aquinas",
+      "rating": 4
+    },
+    {
+      "title": "Poetry, Language, Thought",
+      "author": "Martin Heidegger",
+      "rating": 4
+    },
+    {
+      "title": "Critique of Judgment",
+      "author": "Immanuel Kant",
+      "rating": 4
+    },
+    {
+      "title": "A Theory of Justice",
+      "author": "John Rawls",
+      "rating": 3
+    },
+    {
+      "title": "The World as Will and Representation, Vol. 2",
+      "author": "Arthur Schopenhauer",
+      "rating": 4
+    },
+    {
+      "title": "The Analects",
+      "author": "Confucius",
+      "rating": 3
+    },
+    {
+      "title": "Ecce Homo",
+      "author": "Friedrich Nietzsche",
+      "rating": 3
+    },
+    {
+      "title": "The History of Sexuality, Volume 1: An Introduction",
+      "author": "Michel Foucault",
+      "rating": 4
+    },
+    {
+      "title": "The Fall",
+      "author": "Albert Camus",
+      "rating": 4
+    },
+    {
+      "title": "The Complete Works: The Revised Oxford Translation, Vol. 1",
+      "author": "Aristotle",
+      "rating": 4
+    },
+    {
+      "title": "Discourse on the Origin of Inequality",
+      "author": "Jean-Jacques Rousseau",
+      "rating": 3
+    },
+    {
+      "title": "Politics",
+      "author": "Aristotle",
+      "rating": 3
+    },
+    {
+      "title": "The World as Will and Representation, Vol. 1",
+      "author": "Arthur Schopenhauer",
+      "rating": 4
+    },
+    {
+      "title": "The Society of the Spectacle",
+      "author": "Guy Debord",
+      "rating": 4
+    },
+    {
+      "title": "Utopia",
+      "author": "Thomas More",
+      "rating": 3
+    },
+    {
+      "title": "Five Dialogues: Euthyphro, Apology, Crito, Meno, Phaedo",
+      "author": "Plato",
+      "rating": 4
+    },
+    {
+      "title": "The Sickness Unto Death: A Christian Psychological Exposition for Upbuilding and Awakening",
+      "author": "S\u00ef\u00bf\u00bdren Kierkegaard",
+      "rating": 4
+    },
+    {
+      "title": "The Anti-Christ",
+      "author": "Friedrich Nietzsche",
+      "rating": 3
+    },
+    {
+      "title": "The Tao of Pooh",
+      "author": "Benjamin Hoff",
+      "rating": 4
+    },
+    {
+      "title": "The Will to Power",
+      "author": "Friedrich Nietzsche",
+      "rating": 4
+    },
+    {
+      "title": "Contributions to Philosophy (from Enowning)",
+      "author": "Martin Heidegger",
+      "rating": 4
+    },
+    {
+      "title": "Mein Kampf",
+      "author": "Adolf Hitler",
+      "rating": 3
+    },
+    {
+      "title": "The Bhagavad Gita",
+      "author": "Krishna-Dwaipayana Vyasa",
+      "rating": 4
+    },
+    {
+      "title": "A Thousand Plateaus: Capitalism and Schizophrenia",
+      "author": "Gilles Deleuze",
+      "rating": 4
+    },
+    {
+      "title": "On Certainty (Harper Perennial Modern Thought)",
+      "author": "Ludwig Wittgenstein",
+      "rating": 4
+    },
+    {
+      "title": "Specters of Marx",
+      "author": "Jacques Derrida",
+      "rating": 3
+    },
+    {
+      "title": "Philosophy and the Mirror of Nature",
+      "author": "Richard Rorty",
+      "rating": 4
+    },
+    {
+      "title": "Truth and Method",
+      "author": "Hans-Georg Gadamer",
+      "rating": 4
+    },
+    {
+      "title": "Second Treatise of Government",
+      "author": "John Locke",
+      "rating": 3
+    },
+    {
+      "title": "Difference and Repetition",
+      "author": "Gilles Deleuze",
+      "rating": 4
+    },
+    {
+      "title": "What is Called Thinking?",
+      "author": "Martin Heidegger",
+      "rating": 4
+    },
+    {
+      "title": "Utilitarianism",
+      "author": "John Stuart Mill",
+      "rating": 3
+    },
+    {
+      "title": "Walden",
+      "author": "Henry David Thoreau",
+      "rating": 3
+    },
+    {
+      "title": "Notes from Underground, White Nights, The Dream of a Ridiculous Man, and Selections from The House of the Dead",
+      "author": "Fyodor Dostoevsky",
+      "rating": 4
+    },
+    {
+      "title": "The Handbook",
+      "author": "Epictetus",
+      "rating": 4
+    },
+    {
+      "title": "Theaetetus",
+      "author": "Plato",
+      "rating": 4
+    },
+    {
+      "title": "The Prophet",
+      "author": "Kahlil Gibran",
+      "rating": 4
+    },
+    {
+      "title": "Language and Mind",
+      "author": "Noam Chomsky",
+      "rating": 3
+    },
+    {
+      "title": "An Inquiry into the Nature and Causes of the Wealth of Nations",
+      "author": "Adam Smith",
+      "rating": 3
+    },
+    {
+      "title": "Creative Evolution",
+      "author": "Henri Bergson",
+      "rating": 4
+    },
+    {
+      "title": "A Vindication of the Rights of Woman",
+      "author": "Mary Wollstonecraft",
+      "rating": 3
+    },
+    {
+      "title": "Muhammad, the World-Changer: An Intimate Portrait",
+      "author": "Mohamad Jebara",
+      "rating": 4
+    }
+  ],
+  "Poetry": [
+    {
+      "title": "milk and honey",
+      "author": "Rupi Kaur",
+      "rating": 3
+    },
+    {
+      "title": "The Night Before Christmas",
+      "author": "Clement Clarke Moore",
+      "rating": 4
+    },
+    {
+      "title": "Shakespeare's Sonnets",
+      "author": "William Shakespeare",
+      "rating": 4
+    },
+    {
+      "title": "The Complete Poems of Emily Dickinson",
+      "author": "Emily Dickinson",
+      "rating": 4
+    },
+    {
+      "title": "The Complete Poetry",
+      "author": "Edgar Allan Poe",
+      "rating": 4
+    },
+    {
+      "title": "Green Eggs and Ham",
+      "author": "Dr. Seuss",
+      "rating": 4
+    },
+    {
+      "title": "The Cat in the Hat (The Cat in the Hat, #1)",
+      "author": "Dr. Seuss",
+      "rating": 4
+    },
+    {
+      "title": "Where the Sidewalk Ends",
+      "author": "Shel Silverstein",
+      "rating": 4
+    },
+    {
+      "title": "Songs of Innocence and of Experience",
+      "author": "William Blake",
+      "rating": 4
+    },
+    {
+      "title": "Salt",
+      "author": "Nayyirah Waheed",
+      "rating": 4
+    },
+    {
+      "title": "Ariel",
+      "author": "Sylvia Plath",
+      "rating": 4
+    },
+    {
+      "title": "the sun and her flowers",
+      "author": "Rupi Kaur",
+      "rating": 4
+    },
+    {
+      "title": "The Complete Stories and Poems",
+      "author": "Edgar Allan Poe",
+      "rating": 4
+    },
+    {
+      "title": "The Canterbury Tales",
+      "author": "Geoffrey Chaucer",
+      "rating": 3
+    },
+    {
+      "title": "The Raven",
+      "author": "Edgar Allan Poe",
+      "rating": 4
+    },
+    {
+      "title": "A Midsummer Night's Dream",
+      "author": "William Shakespeare",
+      "rating": 3
+    },
+    {
+      "title": "Falling Up",
+      "author": "Shel Silverstein",
+      "rating": 4
+    },
+    {
+      "title": "Romeo and Juliet",
+      "author": "William Shakespeare",
+      "rating": 3
+    },
+    {
+      "title": "The Princess Saves Herself in This One (Women Are Some Kind of Magic, #1)",
+      "author": "Amanda Lovelace",
+      "rating": 3
+    },
+    {
+      "title": "Rub\u00c3\u00a1iy\u00c3\u00a1t of Omar Khayy\u00c3\u00a1m",
+      "author": "Omar Khayy\u00c3\u00a1m",
+      "rating": 4
+    },
+    {
+      "title": "A Light in the Attic",
+      "author": "Shel Silverstein",
+      "rating": 4
+    },
+    {
+      "title": "Stopping by Woods on a Snowy Evening",
+      "author": "Robert Frost",
+      "rating": 4
+    },
+    {
+      "title": "The Prophet",
+      "author": "Kahlil Gibran",
+      "rating": 4
+    },
+    {
+      "title": "Goblin Market: A Tale of Two Sisters",
+      "author": "Christina Rossetti",
+      "rating": 4
+    },
+    {
+      "title": "Old Possum's Book of Practical Cats",
+      "author": "T.S. Eliot",
+      "rating": 4
+    },
+    {
+      "title": "The Giving Tree",
+      "author": "Shel Silverstein",
+      "rating": 4
+    },
+    {
+      "title": "Dirty Pretty Things",
+      "author": "Michael Faudet",
+      "rating": 3
+    },
+    {
+      "title": "The Odyssey",
+      "author": "Homer",
+      "rating": 3
+    },
+    {
+      "title": "The Poetry of Robert Frost",
+      "author": "Robert Frost",
+      "rating": 4
+    },
+    {
+      "title": "Selected Poems",
+      "author": "Emily Dickinson",
+      "rating": 4
+    },
+    {
+      "title": "Macbeth",
+      "author": "William Shakespeare",
+      "rating": 3
+    },
+    {
+      "title": "The Bell Jar",
+      "author": "Sylvia Plath",
+      "rating": 4
+    },
+    {
+      "title": "The Complete Poems 1927-1979",
+      "author": "Elizabeth Bishop",
+      "rating": 4
+    },
+    {
+      "title": "I Know Why the Caged Bird Sings (Maya Angelou's Autobiography, #1)",
+      "author": "Maya Angelou",
+      "rating": 4
+    },
+    {
+      "title": "No Matter the Wreckage: Poems",
+      "author": "Sarah Kay",
+      "rating": 4
+    },
+    {
+      "title": "The Lady of Shalott",
+      "author": "Alfred Tennyson",
+      "rating": 4
+    },
+    {
+      "title": "Tao Te Ching",
+      "author": "Lao Tzu",
+      "rating": 4
+    },
+    {
+      "title": "Song of Myself",
+      "author": "Walt Whitman",
+      "rating": 4
+    },
+    {
+      "title": "View with a Grain of Sand: Selected Poems",
+      "author": "Wis\u00c5\u201aawa Szymborska",
+      "rating": 4
+    },
+    {
+      "title": "Hamlet",
+      "author": "William Shakespeare",
+      "rating": 4
+    },
+    {
+      "title": "Illuminations",
+      "author": "Arthur Rimbaud",
+      "rating": 4
+    },
+    {
+      "title": "Lullabies (Volume 2) (Lang Leav)",
+      "author": "Lang Leav",
+      "rating": 3
+    },
+    {
+      "title": "Selected Poems",
+      "author": "Lord Byron",
+      "rating": 4
+    },
+    {
+      "title": "Love & Misadventure",
+      "author": "Lang Leav",
+      "rating": 3
+    },
+    {
+      "title": "Howl and Other Poems",
+      "author": "Allen Ginsberg",
+      "rating": 4
+    },
+    {
+      "title": "Aimless Love: New and Selected Poems",
+      "author": "Billy Collins",
+      "rating": 4
+    },
+    {
+      "title": "The Collected Poems of W.B. Yeats",
+      "author": "W.B. Yeats",
+      "rating": 4
+    },
+    {
+      "title": "Depression & Other Magic Tricks",
+      "author": "Sabrina Benaim",
+      "rating": 3
+    },
+    {
+      "title": "Crush",
+      "author": "Richard Siken",
+      "rating": 4
+    },
+    {
+      "title": "The Iliad",
+      "author": "Homer",
+      "rating": 3
+    },
+    {
+      "title": "Inferno",
+      "author": "Dante Alighieri",
+      "rating": 4
+    },
+    {
+      "title": "Bluets",
+      "author": "Maggie Nelson",
+      "rating": 4
+    },
+    {
+      "title": "A Coney Island of the Mind",
+      "author": "Lawrence Ferlinghetti",
+      "rating": 4
+    },
+    {
+      "title": "The Waste Land",
+      "author": "T.S. Eliot",
+      "rating": 4
+    },
+    {
+      "title": "The Portable Dorothy Parker",
+      "author": "Dorothy Parker",
+      "rating": 4
+    },
+    {
+      "title": "Citizen: An American Lyric",
+      "author": "Claudia Rankine",
+      "rating": 4
+    },
+    {
+      "title": "Joyful Noise: Poems for Two Voices",
+      "author": "Paul Fleischman",
+      "rating": 3
+    },
+    {
+      "title": "Chasers of the Light: Poems from the Typewriter Series",
+      "author": "Tyler Knott Gregson",
+      "rating": 4
+    },
+    {
+      "title": "Beowulf",
+      "author": "Unknown",
+      "rating": 3
+    },
+    {
+      "title": "100 Selected Poems",
+      "author": "E.E. Cummings",
+      "rating": 4
+    },
+    {
+      "title": "Idylls of the King",
+      "author": "Alfred Tennyson",
+      "rating": 3
+    },
+    {
+      "title": "Love That Dog (Jack, #1)",
+      "author": "Sharon Creech",
+      "rating": 4
+    },
+    {
+      "title": "The Complete Poems",
+      "author": "John Keats",
+      "rating": 4
+    },
+    {
+      "title": "Autobiography of Red",
+      "author": "Anne Carson",
+      "rating": 4
+    },
+    {
+      "title": "Why I Wake Early",
+      "author": "Mary Oliver",
+      "rating": 4
+    },
+    {
+      "title": "I Could Pee on This: and Other Poems by Cats",
+      "author": "Francesco Marciuliano",
+      "rating": 3
+    },
+    {
+      "title": "The Selected Poetry of Rainer Maria Rilke",
+      "author": "Rainer Maria Rilke",
+      "rating": 4
+    },
+    {
+      "title": "The Wild Iris",
+      "author": "Louise Gl\u00c3\u00bcck",
+      "rating": 4
+    },
+    {
+      "title": "E.E. Cummings: Complete Poems 1904-1962",
+      "author": "E.E. Cummings",
+      "rating": 4
+    },
+    {
+      "title": "Sailing Alone Around the Room: New and Selected Poems",
+      "author": "Billy Collins",
+      "rating": 4
+    },
+    {
+      "title": "To Make Monsters Out of Girls (Things that Haunt, #1)",
+      "author": "Amanda Lovelace",
+      "rating": 3
+    },
+    {
+      "title": "Sir Gawain and the Green Knight",
+      "author": "Unknown",
+      "rating": 3
+    },
+    {
+      "title": "Teaching My Mother How to Give Birth",
+      "author": "Warsan Shire",
+      "rating": 4
+    },
+    {
+      "title": "The Collected Poems",
+      "author": "Langston Hughes",
+      "rating": 4
+    },
+    {
+      "title": "100 Love Sonnets",
+      "author": "Pablo Neruda",
+      "rating": 4
+    },
+    {
+      "title": "The Poetry of Pablo Neruda",
+      "author": "Pablo Neruda",
+      "rating": 4
+    },
+    {
+      "title": "Selected Poems",
+      "author": "E.E. Cummings",
+      "rating": 4
+    },
+    {
+      "title": "Selected Poems",
+      "author": "William Carlos Williams",
+      "rating": 4
+    },
+    {
+      "title": "Oh, the Places You'll Go!",
+      "author": "Dr. Seuss",
+      "rating": 4
+    },
+    {
+      "title": "The Melancholy Death of Oyster Boy and Other Stories",
+      "author": "Tim Burton",
+      "rating": 4
+    },
+    {
+      "title": "Diving Into the Wreck",
+      "author": "Adrienne Rich",
+      "rating": 4
+    },
+    {
+      "title": "Paradise Lost",
+      "author": "John Milton",
+      "rating": 3
+    },
+    {
+      "title": "The Trouble With Poetry - And Other Poems",
+      "author": "Billy Collins",
+      "rating": 4
+    },
+    {
+      "title": "The Colossus and Other Poems",
+      "author": "Sylvia Plath",
+      "rating": 4
+    },
+    {
+      "title": "Sonnets from the Portuguese",
+      "author": "Elizabeth Barrett Browning",
+      "rating": 4
+    },
+    {
+      "title": "The Aeneid",
+      "author": "Virgil",
+      "rating": 3
+    },
+    {
+      "title": "Birthday Letters",
+      "author": "Ted Hughes",
+      "rating": 3
+    },
+    {
+      "title": "On Earth We're Briefly Gorgeous",
+      "author": "Ocean Vuong",
+      "rating": 4
+    },
+    {
+      "title": "Four Quartets",
+      "author": "T.S. Eliot",
+      "rating": 4
+    },
+    {
+      "title": "The Crossover",
+      "author": "Kwame Alexander",
+      "rating": 4
+    },
+    {
+      "title": "I Wrote This For You (I Wrote This For You #4)",
+      "author": "pleasefindthis",
+      "rating": 4
+    },
+    {
+      "title": "Native Guard: A Pulitzer Prize Winner",
+      "author": "Natasha Trethewey",
+      "rating": 4
+    },
+    {
+      "title": "The Poet X",
+      "author": "Elizabeth Acevedo",
+      "rating": 4
+    },
+    {
+      "title": "Selected Poems",
+      "author": "Pablo Neruda",
+      "rating": 4
+    },
+    {
+      "title": "The Beauty of the Husband: A Fictional Essay in 29 Tangos",
+      "author": "Anne Carson",
+      "rating": 4
+    },
+    {
+      "title": "The Raven and Other Poems",
+      "author": "Edgar Allan Poe",
+      "rating": 4
+    },
+    {
+      "title": "Impulse (Impulse, #1)",
+      "author": "Ellen Hopkins",
+      "rating": 4
+    },
+    {
+      "title": "Good Poems",
+      "author": "Garrison Keillor",
+      "rating": 4
+    },
+    {
+      "title": "Long Way Down",
+      "author": "Jason Reynolds",
+      "rating": 4
+    },
+    {
+      "title": "You Get So Alone at Times That it Just Makes Sense",
+      "author": "Charles Bukowski",
+      "rating": 4
+    }
+  ],
+  "Psychological Thriller": [
+    {
+      "title": "Rebecca",
+      "author": "Daphne du Maurier",
+      "rating": 4
+    },
+    {
+      "title": "The Girl with the Dragon Tattoo (Millennium, #1)",
+      "author": "Stieg Larsson",
+      "rating": 4
+    },
+    {
+      "title": "The Talented Mr. Ripley (Ripley, #1)",
+      "author": "Patricia Highsmith",
+      "rating": 3
+    },
+    {
+      "title": "The President's Daughter",
+      "author": "Bill Clinton",
+      "rating": 4
+    },
+    {
+      "title": "The Guest List",
+      "author": "Lucy Foley",
+      "rating": 3
+    },
+    {
+      "title": "The Girl on the Train",
+      "author": "Paula Hawkins",
+      "rating": 3
+    },
+    {
+      "title": "The Silent Patient",
+      "author": "Alex Michaelides",
+      "rating": 4
+    },
+    {
+      "title": "Misery",
+      "author": "Stephen King",
+      "rating": 4
+    },
+    {
+      "title": "The Woman in the Window",
+      "author": "A.J. Finn",
+      "rating": 3
+    },
+    {
+      "title": "The Lies I Tell",
+      "author": "Julie   Clark",
+      "rating": 4
+    },
+    {
+      "title": "Before I Go to Sleep",
+      "author": "S.J. Watson",
+      "rating": 3
+    },
+    {
+      "title": "Verity",
+      "author": "Colleen Hoover",
+      "rating": 4
+    },
+    {
+      "title": "The Breakdown",
+      "author": "B.A. Paris",
+      "rating": 3
+    },
+    {
+      "title": "Gone Girl",
+      "author": "Gillian Flynn",
+      "rating": 4
+    },
+    {
+      "title": "The Couple Next Door",
+      "author": "Shari Lapena",
+      "rating": 3
+    },
+    {
+      "title": "The Sun Down Motel",
+      "author": "Simone St. James",
+      "rating": 4
+    },
+    {
+      "title": "Local Woman Missing",
+      "author": "Mary Kubica",
+      "rating": 4
+    },
+    {
+      "title": "Big Little Lies",
+      "author": "Liane Moriarty",
+      "rating": 4
+    },
+    {
+      "title": "The Housekeeper",
+      "author": "Natalie Barelli",
+      "rating": 3
+    },
+    {
+      "title": "Wrong Place Wrong Time",
+      "author": "Gillian McAllister",
+      "rating": 4
+    },
+    {
+      "title": "End Of Her",
+      "author": "Shari Lapena",
+      "rating": 3
+    },
+    {
+      "title": "Every Dead Thing (Charlie Parker, #1)",
+      "author": "John Connolly",
+      "rating": 3
+    },
+    {
+      "title": "The Death of Mrs. Westaway",
+      "author": "Ruth Ware",
+      "rating": 3
+    },
+    {
+      "title": "Lost Among the Living",
+      "author": "Simone St. James",
+      "rating": 3
+    },
+    {
+      "title": "Echo Burning (Jack Reacher, #5)",
+      "author": "Lee Child",
+      "rating": 4
+    },
+    {
+      "title": "Stay Awake",
+      "author": "Megan Goldin",
+      "rating": 3
+    },
+    {
+      "title": "The Woman in Cabin 10",
+      "author": "Ruth Ware",
+      "rating": 3
+    },
+    {
+      "title": "Things We Do in the Dark",
+      "author": "Jennifer Hillier",
+      "rating": 3
+    },
+    {
+      "title": "More Than You'll Ever Know",
+      "author": "Katie  Gutierrez",
+      "rating": 3
+    },
+    {
+      "title": "The Housemaid (The Housemaid, #1)",
+      "author": "Freida McFadden",
+      "rating": 4
+    },
+    {
+      "title": "Red Dragon (Hannibal Lecter, #1)",
+      "author": "Thomas  Harris",
+      "rating": 4
+    },
+    {
+      "title": "You (You, #1)",
+      "author": "Caroline Kepnes",
+      "rating": 3
+    },
+    {
+      "title": "The Wife Between Us",
+      "author": "Greer Hendricks",
+      "rating": 3
+    },
+    {
+      "title": "An Anonymous Girl",
+      "author": "Greer Hendricks",
+      "rating": 3
+    },
+    {
+      "title": "The Maid",
+      "author": "Nita Prose",
+      "rating": 3
+    },
+    {
+      "title": "The Girl Before",
+      "author": "J.P. Delaney",
+      "rating": 3
+    },
+    {
+      "title": "The Good Girl",
+      "author": "Mary Kubica",
+      "rating": 3
+    },
+    {
+      "title": "Sometimes I Lie",
+      "author": "Alice Feeney",
+      "rating": 3
+    },
+    {
+      "title": "In a Dark, Dark Wood",
+      "author": "Ruth Ware",
+      "rating": 3
+    },
+    {
+      "title": "Find You First",
+      "author": "Linwood Barclay",
+      "rating": 4
+    },
+    {
+      "title": "Just Like Mother",
+      "author": "Anne Heltzel",
+      "rating": 3
+    },
+    {
+      "title": "A Good Marriage",
+      "author": "Stephen King",
+      "rating": 3
+    },
+    {
+      "title": "What Happened to the Bennetts",
+      "author": "Lisa Scottoline",
+      "rating": 3
+    },
+    {
+      "title": "Full Dark, No Stars",
+      "author": "Stephen King",
+      "rating": 4
+    },
+    {
+      "title": "Everything's Eventual: 5 Dark Tales",
+      "author": "Stephen King",
+      "rating": 4
+    },
+    {
+      "title": "Darkness, Take My Hand (Kenzie & Gennaro, #2)",
+      "author": "Dennis Lehane",
+      "rating": 4
+    },
+    {
+      "title": "The Push",
+      "author": "Ashley Audrain",
+      "rating": 4
+    },
+    {
+      "title": "Jar of Hearts",
+      "author": "Jennifer Hillier",
+      "rating": 4
+    },
+    {
+      "title": "The Girls Are All So Nice Here",
+      "author": "Laurie Elizabeth Flynn",
+      "rating": 3
+    },
+    {
+      "title": "Triptych (Will Trent, #1)",
+      "author": "Karin Slaughter",
+      "rating": 4
+    },
+    {
+      "title": "Six Weeks to Live",
+      "author": "Catherine McKenzie",
+      "rating": 3
+    },
+    {
+      "title": "A Faint Cold Fear (Grant County, #3)",
+      "author": "Karin Slaughter",
+      "rating": 4
+    },
+    {
+      "title": "Kisscut (Grant County, #2)",
+      "author": "Karin Slaughter",
+      "rating": 4
+    },
+    {
+      "title": "Cop Town",
+      "author": "Karin Slaughter",
+      "rating": 3
+    },
+    {
+      "title": "Pieces of Her (Andrea Oliver, #1)",
+      "author": "Karin Slaughter",
+      "rating": 3
+    },
+    {
+      "title": "Blindsighted (Grant County, #1)",
+      "author": "Karin Slaughter",
+      "rating": 4
+    },
+    {
+      "title": "The Cloisters",
+      "author": "Katy Hays",
+      "rating": 3
+    },
+    {
+      "title": "The Good Daughter (Good Daughter, #1)",
+      "author": "Karin Slaughter",
+      "rating": 4
+    },
+    {
+      "title": "Unmissing",
+      "author": "Minka Kent",
+      "rating": 4
+    },
+    {
+      "title": "Girl, Forgotten (Andrea Oliver, #2)",
+      "author": "Karin Slaughter",
+      "rating": 4
+    },
+    {
+      "title": "Pretty Girls",
+      "author": "Karin Slaughter",
+      "rating": 4
+    },
+    {
+      "title": "One Small Sacrifice (Shadows of New York, #1)",
+      "author": "Hilary Davidson",
+      "rating": 3
+    },
+    {
+      "title": "The Last High",
+      "author": "Daniel Kalla",
+      "rating": 3
+    },
+    {
+      "title": "The Haunting of Maddy Clare",
+      "author": "Simone St. James",
+      "rating": 3
+    },
+    {
+      "title": "Rock Paper Scissors",
+      "author": "Alice Feeney",
+      "rating": 3
+    },
+    {
+      "title": "Blacktop Wasteland",
+      "author": "S.A. Cosby",
+      "rating": 4
+    },
+    {
+      "title": "The Broken Girls",
+      "author": "Simone St. James",
+      "rating": 4
+    },
+    {
+      "title": "Bath Haus",
+      "author": "P.J.  Vernon",
+      "rating": 3
+    },
+    {
+      "title": "The Couple on Maple Drive",
+      "author": "Sam Carrington",
+      "rating": 3
+    },
+    {
+      "title": "The Surgeon (Rizzoli & Isles, #1)",
+      "author": "Tess Gerritsen",
+      "rating": 4
+    },
+    {
+      "title": "One by One",
+      "author": "Ruth Ware",
+      "rating": 3
+    },
+    {
+      "title": "The Girl in 6E (Deanna Madden, #1)",
+      "author": "A.R. Torre",
+      "rating": 3
+    },
+    {
+      "title": "The Turn of the Key",
+      "author": "Ruth Ware",
+      "rating": 3
+    },
+    {
+      "title": "One of Us Is Lying (One of Us is Lying, #1)",
+      "author": "Karen M. McManus",
+      "rating": 3
+    },
+    {
+      "title": "Charlotte",
+      "author": "Norah Lofts",
+      "rating": 3
+    },
+    {
+      "title": "Strangers on a Train",
+      "author": "Patricia Highsmith",
+      "rating": 3
+    },
+    {
+      "title": "The Silence of the Lambs  (Hannibal Lecter, #2)",
+      "author": "Thomas  Harris",
+      "rating": 4
+    },
+    {
+      "title": "Your House Will Pay",
+      "author": "Steph Cha",
+      "rating": 4
+    },
+    {
+      "title": "Shutter Island",
+      "author": "Dennis Lehane",
+      "rating": 4
+    },
+    {
+      "title": "Road of Bones",
+      "author": "Christopher Golden",
+      "rating": 3
+    },
+    {
+      "title": "A Flicker in the Dark",
+      "author": "Stacy Willingham",
+      "rating": 4
+    },
+    {
+      "title": "Nothing More to Tell",
+      "author": "Karen M. McManus",
+      "rating": 3
+    },
+    {
+      "title": "Our Crooked Hearts",
+      "author": "Melissa Albert",
+      "rating": 3
+    },
+    {
+      "title": "My Wife is Missing",
+      "author": "D.J.  Palmer",
+      "rating": 3
+    },
+    {
+      "title": "The Golden Couple",
+      "author": "Greer Hendricks",
+      "rating": 4
+    },
+    {
+      "title": "The Other Guest",
+      "author": "Helen   Cooper",
+      "rating": 3
+    },
+    {
+      "title": "Secluded Cabin Sleeps Six",
+      "author": "Lisa Unger",
+      "rating": 3
+    },
+    {
+      "title": "Daisy Darker",
+      "author": "Alice Feeney",
+      "rating": 3
+    },
+    {
+      "title": "All Good People Here",
+      "author": "Ashley Flowers",
+      "rating": 3
+    },
+    {
+      "title": "The Butcher and the Wren (The Butcher and the Wren #1)",
+      "author": "Alaina Urquhart",
+      "rating": 3
+    },
+    {
+      "title": "The It Girl",
+      "author": "Ruth Ware",
+      "rating": 3
+    },
+    {
+      "title": "Reputation",
+      "author": "Sarah Vaughan",
+      "rating": 3
+    },
+    {
+      "title": "The House Across the Lake",
+      "author": "Riley Sager",
+      "rating": 3
+    },
+    {
+      "title": "Breathless",
+      "author": "Amy McCulloch",
+      "rating": 3
+    },
+    {
+      "title": "The Locked Room (Ruth Galloway, #14)",
+      "author": "Elly Griffiths",
+      "rating": 4
+    },
+    {
+      "title": "Aurora",
+      "author": "David Koepp",
+      "rating": 3
+    },
+    {
+      "title": "The Lunar Housewife",
+      "author": "Caroline  Woods",
+      "rating": 3
+    },
+    {
+      "title": "Local Gone Missing",
+      "author": "Fiona Barton",
+      "rating": 3
+    },
+    {
+      "title": "214 Palmer Street",
+      "author": "Karen McQuestion",
+      "rating": 3
+    },
+    {
+      "title": "The Locked Door",
+      "author": "Freida McFadden",
+      "rating": 4
+    }
+  ],
+  "Science Fiction": [
+    {
+      "title": "Dune (Dune, #1)",
+      "author": "Frank Herbert",
+      "rating": 4
+    },
+    {
+      "title": "Ender\u00ef\u00bf\u00bds Game (Ender's Saga, #1)",
+      "author": "Orson Scott Card",
+      "rating": 4
+    },
+    {
+      "title": "The Hitchhiker's Guide to the Galaxy (The Hitchhiker's Guide to the Galaxy, #1)",
+      "author": "Douglas Adams",
+      "rating": 4
+    },
+    {
+      "title": "1984",
+      "author": "George Orwell",
+      "rating": 4
+    },
+    {
+      "title": "Fahrenheit 451",
+      "author": "Ray Bradbury",
+      "rating": 3
+    },
+    {
+      "title": "Foundation (Foundation, #1)",
+      "author": "Isaac Asimov",
+      "rating": 4
+    },
+    {
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "rating": 3
+    },
+    {
+      "title": "Hyperion (Hyperion Cantos, #1)",
+      "author": "Dan Simmons",
+      "rating": 4
+    },
+    {
+      "title": "Do Androids Dream of Electric Sheep?",
+      "author": "Philip K. Dick",
+      "rating": 4
+    },
+    {
+      "title": "2001: A Space Odyssey",
+      "author": "Arthur C. Clarke",
+      "rating": 4
+    },
+    {
+      "title": "The Martian",
+      "author": "Andy Weir",
+      "rating": 4
+    },
+    {
+      "title": "I, Robot (Robot, #0.1)",
+      "author": "Isaac Asimov",
+      "rating": 4
+    },
+    {
+      "title": "Slaughterhouse-Five",
+      "author": "Kurt Vonnegut Jr.",
+      "rating": 4
+    },
+    {
+      "title": "Stranger in a Strange Land",
+      "author": "Robert A. Heinlein",
+      "rating": 3
+    },
+    {
+      "title": "Ready Player One (Ready Player One, #1)",
+      "author": "Ernest Cline",
+      "rating": 4
+    },
+    {
+      "title": "The Foundation Trilogy (Foundation, #1-3)",
+      "author": "Isaac Asimov",
+      "rating": 4
+    },
+    {
+      "title": "The Hunger Games (The Hunger Games, #1)",
+      "author": "Suzanne Collins",
+      "rating": 4
+    },
+    {
+      "title": "Neuromancer (Sprawl, #1)",
+      "author": "William Gibson",
+      "rating": 3
+    },
+    {
+      "title": "Childhood's End",
+      "author": "Arthur C. Clarke",
+      "rating": 4
+    },
+    {
+      "title": "The Martian Chronicles",
+      "author": "Ray Bradbury",
+      "rating": 4
+    },
+    {
+      "title": "Frankenstein: The 1818 Text",
+      "author": "Mary Wollstonecraft Shelley",
+      "rating": 3
+    },
+    {
+      "title": "The Forever War (The Forever War, #1)",
+      "author": "Joe Haldeman",
+      "rating": 4
+    },
+    {
+      "title": "Flowers for Algernon",
+      "author": "Daniel Keyes",
+      "rating": 4
+    },
+    {
+      "title": "The Left Hand of Darkness",
+      "author": "Ursula K. Le Guin",
+      "rating": 4
+    },
+    {
+      "title": "The Time Machine",
+      "author": "H.G. Wells",
+      "rating": 3
+    },
+    {
+      "title": "The Handmaid\u00ef\u00bf\u00bds Tale (The Handmaid's Tale, #1)",
+      "author": "Margaret Atwood",
+      "rating": 4
+    },
+    {
+      "title": "Jurassic Park (Jurassic Park, #1)",
+      "author": "Michael Crichton",
+      "rating": 4
+    },
+    {
+      "title": "Rendezvous with Rama (Rama, #1)",
+      "author": "Arthur C. Clarke",
+      "rating": 4
+    },
+    {
+      "title": "The War of the Worlds",
+      "author": "H.G. Wells",
+      "rating": 3
+    },
+    {
+      "title": "Snow Crash",
+      "author": "Neal Stephenson",
+      "rating": 4
+    },
+    {
+      "title": "Speaker for the Dead (Ender's Saga, #2)",
+      "author": "Orson Scott Card",
+      "rating": 4
+    },
+    {
+      "title": "Starship Troopers",
+      "author": "Robert A. Heinlein",
+      "rating": 4
+    },
+    {
+      "title": "A Canticle for Leibowitz (St. Leibowitz, #1)",
+      "author": "Walter M. Miller Jr.",
+      "rating": 3
+    },
+    {
+      "title": "Old Man's War (Old Man's War, #1)",
+      "author": "John Scalzi",
+      "rating": 4
+    },
+    {
+      "title": "Animal Farm",
+      "author": "George Orwell",
+      "rating": 3
+    },
+    {
+      "title": "The Moon Is a Harsh Mistress",
+      "author": "Robert A. Heinlein",
+      "rating": 4
+    },
+    {
+      "title": "A Clockwork Orange",
+      "author": "Anthony Burgess",
+      "rating": 4
+    },
+    {
+      "title": "A Wrinkle in Time (Time Quintet, #1)",
+      "author": "Madeleine L'Engle",
+      "rating": 3
+    },
+    {
+      "title": "The Dispossessed: An Ambiguous Utopia",
+      "author": "Ursula K. Le Guin",
+      "rating": 4
+    }
+  ],
+  "Southern Gothic": [
+    {
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "rating": 4
+    },
+    {
+      "title": "The Sound and the Fury",
+      "author": "William Faulkner",
+      "rating": 3
+    },
+    {
+      "title": "In Cold Blood",
+      "author": "Truman Capote",
+      "rating": 4
+    },
+    {
+      "title": "As I Lay Dying",
+      "author": "William Faulkner",
+      "rating": 3
+    },
+    {
+      "title": "Midnight in the Garden of Good and Evil",
+      "author": "John Berendt",
+      "rating": 3
+    },
+    {
+      "title": "A Good Man Is Hard to Find and Other Stories",
+      "author": "Flannery O'Connor",
+      "rating": 4
+    },
+    {
+      "title": "The Heart Is a Lonely Hunter",
+      "author": "Carson McCullers",
+      "rating": 3
+    },
+    {
+      "title": "Wise Blood",
+      "author": "Flannery O'Connor",
+      "rating": 3
+    },
+    {
+      "title": "A Streetcar Named Desire",
+      "author": "Tennessee Williams",
+      "rating": 3
+    },
+    {
+      "title": "Beloved",
+      "author": "Toni Morrison",
+      "rating": 3
+    },
+    {
+      "title": "Light in August",
+      "author": "William Faulkner",
+      "rating": 3
+    },
+    {
+      "title": "The Kestrel Waters",
+      "author": "Randy Thornhorn",
+      "rating": 4
+    },
+    {
+      "title": "A Rose for Emily and Other Stories",
+      "author": "William Faulkner",
+      "rating": 4
+    },
+    {
+      "title": "Winter's Bone",
+      "author": "Daniel Woodrell",
+      "rating": 3
+    },
+    {
+      "title": "Blood Meridian, or, the Evening Redness in the West",
+      "author": "Cormac McCarthy",
+      "rating": 4
+    },
+    {
+      "title": "Child of God",
+      "author": "Cormac McCarthy",
+      "rating": 3
+    },
+    {
+      "title": "Everything That Rises Must Converge: Stories",
+      "author": "Flannery O'Connor",
+      "rating": 4
+    },
+    {
+      "title": "Wicked Temper",
+      "author": "Randy Thornhorn",
+      "rating": 3
+    },
+    {
+      "title": "A Confederacy of Dunces",
+      "author": "John Kennedy Toole",
+      "rating": 3
+    },
+    {
+      "title": "Deliverance",
+      "author": "James Dickey",
+      "rating": 3
+    },
+    {
+      "title": "Other Voices, Other Rooms",
+      "author": "Truman Capote",
+      "rating": 3
+    },
+    {
+      "title": "Cat on a Hot Tin Roof",
+      "author": "Tennessee Williams",
+      "rating": 4
+    },
+    {
+      "title": "Outer Dark",
+      "author": "Cormac McCarthy",
+      "rating": 3
+    },
+    {
+      "title": "Absalom, Absalom!",
+      "author": "William Faulkner",
+      "rating": 3
+    },
+    {
+      "title": "The Ballad of the Sad Caf\u00e9",
+      "author": "Carson McCullers",
+      "rating": 3
+    },
+    {
+      "title": "The Complete Stories",
+      "author": "Flannery O'Connor",
+      "rating": 4
+    },
+    {
+      "title": "Suttree",
+      "author": "Cormac McCarthy",
+      "rating": 4
+    },
+    {
+      "title": "Twilight",
+      "author": "William Gay",
+      "rating": 3
+    },
+    {
+      "title": "Crooked Letter, Crooked Letter",
+      "author": "Tom Franklin",
+      "rating": 3
+    },
+    {
+      "title": "Tobacco Road: A Novel (Brown Thrasher Books Ser.)",
+      "author": "Erskine Caldwell",
+      "rating": 3
+    },
+    {
+      "title": "The Devil All the Time",
+      "author": "Donald Ray Pollock",
+      "rating": 4
+    },
+    {
+      "title": "Sanctuary",
+      "author": "William Faulkner",
+      "rating": 3
+    },
+    {
+      "title": "Red Lory",
+      "author": "Dave Newell",
+      "rating": 3
+    },
+    {
+      "title": "The Violent Bear It Away",
+      "author": "Flannery O'Connor",
+      "rating": 4
+    },
+    {
+      "title": "The Collected Stories",
+      "author": "Eudora Welty",
+      "rating": 4
+    },
+    {
+      "title": "A Feast of Snakes",
+      "author": "Harry Crews",
+      "rating": 4
+    },
+    {
+      "title": "Joe",
+      "author": "Larry Brown",
+      "rating": 4
+    },
+    {
+      "title": "Some Small Magic",
+      "author": "Billy Coffey",
+      "rating": 3
+    },
+    {
+      "title": "Provinces of Night",
+      "author": "William Gay",
+      "rating": 4
+    },
+    {
+      "title": "Collected Stories",
+      "author": "Carson McCullers",
+      "rating": 4
+    },
+    {
+      "title": "Collected Stories",
+      "author": "William Faulkner",
+      "rating": 4
+    },
+    {
+      "title": "The Adventures of Huckleberry Finn",
+      "author": "Mark Twain",
+      "rating": 3
+    },
+    {
+      "title": "I Hate to See That Evening Sun Go Down: Collected Stories",
+      "author": "William Gay",
+      "rating": 4
+    },
+    {
+      "title": "Serena",
+      "author": "Ron Rash",
+      "rating": 3
+    },
+    {
+      "title": "Steal Away Home",
+      "author": "Billy Coffey",
+      "rating": 3
+    },
+    {
+      "title": "The Little Friend",
+      "author": "Donna Tartt",
+      "rating": 3
+    },
+    {
+      "title": "The Grass Harp, Including A Tree of Night and Other Stories",
+      "author": "Truman Capote",
+      "rating": 4
+    },
+    {
+      "title": "There Will Be Stars",
+      "author": "Billy Coffey",
+      "rating": 3
+    },
+    {
+      "title": "The Long Home",
+      "author": "William Gay",
+      "rating": 4
+    },
+    {
+      "title": "Swamplandia!",
+      "author": "Karen Russell",
+      "rating": 3
+    },
+    {
+      "title": "The Bottoms",
+      "author": "Joe R. Lansdale",
+      "rating": 4
+    },
+    {
+      "title": "The Gospel Singer",
+      "author": "Harry Crews",
+      "rating": 4
+    },
+    {
+      "title": "Tomato Red",
+      "author": "Daniel Woodrell",
+      "rating": 3
+    },
+    {
+      "title": "Compulsion (The Heirs of Watson Island, #1)",
+      "author": "Martina Boone",
+      "rating": 3
+    },
+    {
+      "title": "The Prince of Tides",
+      "author": "Pat Conroy",
+      "rating": 4
+    },
+    {
+      "title": "Gone South",
+      "author": "Robert McCammon",
+      "rating": 3
+    },
+    {
+      "title": "A Childhood: The Biography of a Place",
+      "author": "Harry Crews",
+      "rating": 4
+    },
+    {
+      "title": "Reflections in a Golden Eye",
+      "author": "Carson McCullers",
+      "rating": 3
+    },
+    {
+      "title": "This Dark Road to Mercy",
+      "author": "Wiley Cash",
+      "rating": 3
+    },
+    {
+      "title": "The Curse of Crow Hollow",
+      "author": "Billy Coffey",
+      "rating": 3
+    },
+    {
+      "title": "Bootlicker",
+      "author": "Steve Piacente",
+      "rating": 4
+    },
+    {
+      "title": "The Orchard Keeper",
+      "author": "Cormac McCarthy",
+      "rating": 3
+    },
+    {
+      "title": "The Adventures of Tom Sawyer",
+      "author": "Mark Twain",
+      "rating": 3
+    },
+    {
+      "title": "Southern Gothic: New Tales of the South",
+      "author": "Jordan M. Scoggins",
+      "rating": 4
+    },
+    {
+      "title": "The Lords of Discipline",
+      "author": "Pat Conroy",
+      "rating": 4
+    },
+    {
+      "title": "Kindred",
+      "author": "Octavia E. Butler",
+      "rating": 4
+    },
+    {
+      "title": "The Knockout Artist",
+      "author": "Harry Crews",
+      "rating": 3
+    },
+    {
+      "title": "Give Us a Kiss",
+      "author": "Daniel Woodrell",
+      "rating": 3
+    },
+    {
+      "title": "Turtle: The American Contrition of Franz Ferdinand",
+      "author": "Mik Everett",
+      "rating": 3
+    },
+    {
+      "title": "The Elementals",
+      "author": "Michael McDowell",
+      "rating": 4
+    },
+    {
+      "title": "The Devil Walks in Mattingly",
+      "author": "Billy Coffey",
+      "rating": 3
+    },
+    {
+      "title": "Sing, Unburied, Sing",
+      "author": "Jesmyn Ward",
+      "rating": 4
+    },
+    {
+      "title": "'night, Mother",
+      "author": "Marsha Norman",
+      "rating": 3
+    },
+    {
+      "title": "The Great Santini",
+      "author": "Pat Conroy",
+      "rating": 4
+    },
+    {
+      "title": "Galveston",
+      "author": "Nic Pizzolatto",
+      "rating": 3
+    },
+    {
+      "title": "The Water Is Wide",
+      "author": "Pat Conroy",
+      "rating": 4
+    },
+    {
+      "title": "My Sunshine Away",
+      "author": "M.O. Walsh",
+      "rating": 3
+    },
+    {
+      "title": "The Death of Sweet Mister",
+      "author": "Daniel Woodrell",
+      "rating": 3
+    },
+    {
+      "title": "And the Ass Saw the Angel",
+      "author": "Nick Cave",
+      "rating": 3
+    },
+    {
+      "title": "Salvation on Sand Mountain: Snake-Handling and Redemption in Southern Appalachia",
+      "author": "Dennis Covington",
+      "rating": 3
+    },
+    {
+      "title": "Beach Music",
+      "author": "Pat Conroy",
+      "rating": 4
+    },
+    {
+      "title": "Gone with the Wind",
+      "author": "Margaret Mitchell",
+      "rating": 4
+    },
+    {
+      "title": "All the King's Men",
+      "author": "Robert Penn Warren",
+      "rating": 4
+    },
+    {
+      "title": "In the Heart of the Dark Wood",
+      "author": "Billy Coffey",
+      "rating": 3
+    },
+    {
+      "title": "The Secret Sense of Wildflower (Wildflower #1)",
+      "author": "Susan   Gabriel",
+      "rating": 4
+    },
+    {
+      "title": "Music of the Swamp",
+      "author": "Lewis Nordan",
+      "rating": 4
+    },
+    {
+      "title": "The Keepers of the House",
+      "author": "Shirley Ann Grau",
+      "rating": 4
+    },
+    {
+      "title": "Body",
+      "author": "Harry Crews",
+      "rating": 3
+    },
+    {
+      "title": "Scar Lover",
+      "author": "Harry Crews",
+      "rating": 3
+    },
+    {
+      "title": "A Curtain of Green and Other Stories",
+      "author": "Eudora Welty",
+      "rating": 4
+    },
+    {
+      "title": "The Portable Poe",
+      "author": "Edgar Allan Poe",
+      "rating": 4
+    },
+    {
+      "title": "The Weight of Blood",
+      "author": "Laura McHugh",
+      "rating": 3
+    },
+    {
+      "title": "Car",
+      "author": "Harry Crews",
+      "rating": 3
+    },
+    {
+      "title": "Fallen Land",
+      "author": "Taylor  Brown",
+      "rating": 3
+    },
+    {
+      "title": "The Resurrectionist",
+      "author": "Matthew Guinn",
+      "rating": 3
+    },
+    {
+      "title": "Celebration",
+      "author": "Harry Crews",
+      "rating": 3
+    },
+    {
+      "title": "Cold Moon Over Babylon",
+      "author": "Michael McDowell",
+      "rating": 3
+    },
+    {
+      "title": "Sewing Holes",
+      "author": "Darlyn Finch Kuhn",
+      "rating": 4
+    },
+    {
+      "title": "Bull Mountain (Bull Mountain, #1)",
+      "author": "Brian Panowich",
+      "rating": 3
+    },
+    {
+      "title": "A Tidewater Morning",
+      "author": "William Styron",
+      "rating": 3
+    }
+  ]
+}
