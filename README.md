@@ -8,6 +8,9 @@ Provides a user-friendly web interface.
 Allows users to select a genre from the dropdown menu.
 Displays a random book from the selected genre.
 
+# Recent Updates
+Converted all CSVs into one large JSON! separated by genre. I'll try to host it as a REST api sometime soon!
+
 # Requirements
 Python 3.x
 Beautiful Soup (for web scraping)
